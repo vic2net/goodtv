@@ -1,7 +1,4 @@
 #EXTM3U
-#EXTINF:0 tvg-rec="0",ОТР HD
-#EXTGRP:Общие
-http://b53f0300.kazaktelekom.com/iptv/P6AFYASUFXQF7MFC4S3K6QE5/20018/index.m3u8
 #EXTINF:0 tvg-rec="7",Первый канал FHD
 #EXTGRP:Общие
 http://b53f0300.kazaktelekom.com/iptv/P6AFYASUFXQF7MFC4S3K6QE5/2402/index.m3u8
@@ -12118,3 +12115,4 @@ http://big.ipfr.tv:80/play/live.php?mac=10:27:BE:40:07:49&stream=1973416&extensi
 http://big.ipfr.tv:80/play/live.php?mac=10:27:BE:40:07:49&stream=1973415&extension=ts&play_token=3fGPpxopPB
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/CHRISTMAS.png" group-title="CHRISTMAS",CHRITMAS| AMBIENT 5 ᴴᴰ
 http://big.ipfr.tv:80/play/live.php?mac=10:27:BE:40:07:49&stream=1973414&extension=ts&play_token=VPwzLUsViA
+
