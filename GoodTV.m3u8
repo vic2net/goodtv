@@ -551,9 +551,9 @@ http://194.158.222.36:6086
 http://195.158.223.132:8011/Dizi
 #EXTINF:-1  group-title="Фильмы"  tvg-id="TrashTV.ru"  tvg-logo="https://i.imgur.com/jnUD3ak.png"   tvg-name="Trash",Trash [1920x1080@25]
 http://157.90.0.245:8070/Trash_HD/index.m3u8
-#EXTINF:-1  group-title="Фильмы"  tvg-id="vijuTV1000.ru"  tvg-logo="https://i.imgur.com/ZMsyjSr.png"   tvg-name="viju TV1000",viju TV1000 [1920x1080@25]
-https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/TV1000_HD.smil/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3a1&md5=ZgkiURglDJzkC_KU7hIwww&e=1765028808&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
 #EXTINF:-1  group-title="Фильмы"  tvg-id="vijuTV1000.ru (2)"  tvg-logo="https://i.imgur.com/ZMsyjSr.png"   tvg-name="viju TV1000",viju TV1000 [1920x1080@25]
+https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/TV1000_HD.smil/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3a1&md5=ZgkiURglDJzkC_KU7hIwww&e=1765028808&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
+#EXTINF:-1  group-title="Фильмы"  tvg-id="vijuTV1000.ru"  tvg-logo="https://i.imgur.com/ZMsyjSr.png"   tvg-name="viju TV1000",viju TV1000 [1920x1080@25]
 http://176.96.241.40/TV1000/index.m3u8
 #EXTINF:-1  group-title="Фильмы"  tvg-id="vijuTV1000.ru (3)"  tvg-logo="https://i.imgur.com/ZMsyjSr.png"   tvg-name="viju TV1000",viju TV1000 [720x576@25]
 http://217.11.177.56/streams/media/tv1000_720x576/index.m3u8
@@ -1556,4 +1556,5 @@ http://217.19.212.8:8012/
 #EXTINF:-1  group-title="Радио"  tvg-id="yumor-fm"  tvg-logo="http://iptvn.idc.md/img/ico/250.gif"   tvg-name="Юмор FM",Юмор FM
 http://217.19.212.8:8135/
 #EXT-X-ENDLIST
+
 
