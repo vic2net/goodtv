@@ -735,9 +735,9 @@ http://195.64.140.147:10046/46
 http://146.120.14.239:3001/play/a07s
 #EXTINF:-1  group-title="Фильмы"  tvg-id="Kinohit.ru (7)"  tvg-logo="https://i.imgur.com/Ge8vkQM.png" ,КиноХит [1920x1080@25]
 http://195.158.223.132:8008/Kinohit
-#EXTINF:-1  group-title="Фильмы"  tvg-id="Kinokomedija.ru"  tvg-logo="https://i.imgur.com/1Z9VTM6.png"   tvg-name="Кинокомедия",Кинокомедия [720x576@25]
-http://178.212.71.253:8000/play/85/index.m3u8
 #EXTINF:-1  group-title="Фильмы"  tvg-id="Kinokomedija.ru (2)"  tvg-logo="https://i.imgur.com/1Z9VTM6.png"   tvg-name="Кинокомедия",Кинокомедия [720x576@25]
+http://178.212.71.253:8000/play/85/index.m3u8
+#EXTINF:-1  group-title="Фильмы"  tvg-id="Kinokomedija.ru"  tvg-logo="https://i.imgur.com/1Z9VTM6.png"   tvg-name="Кинокомедия",Кинокомедия [720x576@25]
 http://158.101.222.193:88/georgia_play.php?id=kinokomediya
 #EXTINF:-1  group-title="Фильмы"  tvg-id="Kinokomedija.ru (3)"  tvg-logo="https://i.imgur.com/1Z9VTM6.png"   tvg-name="Кинокомедия",Кинокомедия [1920x1080@25]
 http://109.75.59.241:8017/Kinokomediya/index.m3u8
@@ -837,9 +837,9 @@ http://95.85.109.219:7000/play/a087
 http://195.64.140.147:10048/48
 #EXTINF:-1  group-title="Фильмы"  tvg-id="Kinoseriya.ru (9)"  tvg-logo="https://i.imgur.com/iao7zLZ.png"   tvg-name="Киносерия",Киносерия [720x576@25]
 http://146.120.14.239:3001/play/a07x
-#EXTINF:-1  group-title="Фильмы"  tvg-id="Kinouzhas.ru"  tvg-logo="https://i.imgur.com/mAcAAQF.png"   tvg-name="Киноужас",Киноужас [1920x1080@25]
+#EXTINF:-1  group-title="Фильмы"  tvg-id="Kinouzhas.ru (2)"  tvg-logo="https://i.imgur.com/mAcAAQF.png"   tvg-name="Киноужас",Киноужас [1920x1080@25]
 http://109.75.59.241:8017/Kinouzhas/index.m3u8
-#EXTINF:-1  group-title="Фильмы"  tvg-id="Kinouzhas.ru (2)"  tvg-logo="https://i.imgur.com/mAcAAQF.png"   tvg-name="Киноужас",Киноужас [720x576@25]
+#EXTINF:-1  group-title="Фильмы"  tvg-id="Kinouzhas.ru"  tvg-logo="https://i.imgur.com/mAcAAQF.png"   tvg-name="Киноужас",Киноужас [720x576@25]
 http://158.101.222.193:88/georgia_play.php?id=kinoujas
 #EXTINF:-1  group-title="Фильмы"  tvg-id="Kinouzhas.ru (3)"  tvg-logo="https://i.imgur.com/mAcAAQF.png"   tvg-name="Киноужас",Киноужас [720x576@25]
 http://178.212.71.253:8000/play/133/index.m3u8
@@ -873,9 +873,9 @@ http://195.158.223.132:8009/Mir_Seriala
 http://193.25.8.59:8000/mirseriala
 #EXTINF:-1  group-title="Фильмы"  tvg-id="MirSeriala.ru (6)"  tvg-logo="https://i.imgur.com/uzj7wVp.png"   tvg-name="Мир Сериала",Мир сериала [720x576@25]
 http://195.64.140.147:10089/89
-#EXTINF:-1  group-title="Фильмы"  tvg-id="MosfilmGoldCollection.ru"  tvg-logo="https://i.imgur.com/95Y8jb6.png"   tvg-name="Мосфильм Золотая коллекция",Мосфильм.Золотая коллекция [1920x1080@50]
+#EXTINF:-1  group-title="Фильмы"  tvg-id="MosfilmGoldCollection.ru (2)"  tvg-logo="https://i.imgur.com/95Y8jb6.png"   tvg-name="Мосфильм Золотая коллекция",Мосфильм.Золотая коллекция [1920x1080@50]
 http://95.66.188.74/MosfilmHD/mono.m3u8
-#EXTINF:-1  group-title="Фильмы"  tvg-id="MosfilmGoldCollection.ru (2)"  tvg-logo="https://i.imgur.com/95Y8jb6.png"   tvg-name="Мосфильм Золотая коллекция",Мосфильм.Золотая коллекция [1920x1080@25]
+#EXTINF:-1  group-title="Фильмы"  tvg-id="MosfilmGoldCollection.ru"  tvg-logo="https://i.imgur.com/95Y8jb6.png"   tvg-name="Мосфильм Золотая коллекция",Мосфильм.Золотая коллекция [1920x1080@25]
 http://5.8.11.96:8099/mosfilmhd/index.m3u8
 #EXTINF:-1  group-title="Фильмы"  tvg-id="MosfilmGoldCollection.ru (3)"  tvg-logo="https://i.imgur.com/95Y8jb6.png"   tvg-name="Мосфильм Золотая коллекция",Мосфильм.Золотая коллекция [720x576@25]
 http://178.134.1.158:8081/mosfilm/index.m3u8
@@ -883,9 +883,9 @@ http://178.134.1.158:8081/mosfilm/index.m3u8
 http://178.212.71.253:8000/play/124/index.m3u8
 #EXTINF:-1  group-title="Фильмы"  tvg-id="MosfilmGoldCollection.ru (5)"  tvg-logo="https://i.imgur.com/95Y8jb6.png"   tvg-name="Мосфильм Золотая коллекция",Мосфильм.Золотая коллекция [720x576@25]
 http://193.25.8.59:8000/tnv
-#EXTINF:-1  group-title="Фильмы"  tvg-id="Muzhskoekino.ru"  tvg-logo="https://i.imgur.com/8RN3tQC.png"   tvg-name="Мужское кино",Мужское кино [720x576@25]
+#EXTINF:-1  group-title="Фильмы"  tvg-id="Muzhskoekino.ru (2)"  tvg-logo="https://i.imgur.com/8RN3tQC.png"   tvg-name="Мужское кино",Мужское кино [720x576@25]
 http://157.90.0.245:8070/muzhskoe_kino/index.m3u8
-#EXTINF:-1  group-title="Фильмы"  tvg-id="Muzhskoekino.ru (2)"  tvg-logo="https://i.imgur.com/8RN3tQC.png"   tvg-name="Мужское кино",Мужское кино [1920x1080@25]
+#EXTINF:-1  group-title="Фильмы"  tvg-id="Muzhskoekino.ru"  tvg-logo="https://i.imgur.com/8RN3tQC.png"   tvg-name="Мужское кино",Мужское кино [1920x1080@25]
 http://95.66.188.74/MuzhskoeKinoHD/mono.m3u8
 #EXTINF:-1  group-title="Фильмы"  tvg-id="Muzhskoekino.ru (3)"  tvg-logo="https://i.imgur.com/8RN3tQC.png"   tvg-name="Мужское кино",Мужское кино [768x576@25]
 http://158.101.222.193:88/georgia_play.php?id=interesnoetv
@@ -913,13 +913,13 @@ http://146.120.14.239:3001/play/a077
 http://195.64.140.147:10054/54
 #EXTINF:-1  group-title="Фильмы"  tvg-id="NST.ru (9)"  tvg-logo="https://i.imgur.com/uv2yxa5.png"   tvg-name="НСТ",НСТ [720x576@25]
 http://195.158.223.132:8006/NST
-#EXTINF:-1  group-title="Фильмы"  tvg-id="NTVSeries.ru"  tvg-logo="https://i.imgur.com/QdVa8tl.png"   tvg-name="НТВ Сериал",НТВ-Сериал [1024x576@25]
+#EXTINF:-1  group-title="Фильмы"  tvg-id="NTVSeries.ru (4)"  tvg-logo="https://i.imgur.com/QdVa8tl.png"   tvg-name="НТВ Сериал",НТВ-Сериал [1024x576@25]
 http://cdn.ntv.ru/th_serial/mono.m3u8
 #EXTINF:-1  group-title="Фильмы"  tvg-id="NTVSeries.ru (2)"  tvg-logo="https://i.imgur.com/QdVa8tl.png"   tvg-name="НТВ Сериал",НТВ-Сериал [1024x576@25]
 https://cdn2.ntv.ru/th_serial/index.m3u8
 #EXTINF:-1  group-title="Фильмы"  tvg-id="NTVSeries.ru (3)"  tvg-logo="https://i.imgur.com/QdVa8tl.png"   tvg-name="НТВ Сериал",НТВ-Сериал [720x576@25]
 http://146.120.14.239:3001/play/a0bx
-#EXTINF:-1  group-title="Фильмы"  tvg-id="NTVSeries.ru (4)"  tvg-logo="https://i.imgur.com/QdVa8tl.png"   tvg-name="НТВ Сериал",НТВ-Сериал [960x540@25]
+#EXTINF:-1  group-title="Фильмы"  tvg-id="NTVSeries.ru"  tvg-logo="https://i.imgur.com/QdVa8tl.png"   tvg-name="НТВ Сериал",НТВ-Сериал [960x540@25]
 http://levshanov.tlkf.ru/iptv/ntv_serial/16/tvrecw/playlist.m3u8
 #EXTINF:-1  group-title="Фильмы"  tvg-id="NTVHit.ru"  tvg-logo="https://i.imgur.com/5RFslxi.png"   tvg-name="НТВ-Хит",НТВ-Хит [1024x576@25]
 http://cdn.ntv.ru/th_hit/mono.m3u8
@@ -999,9 +999,9 @@ http://77.106.252.178:4022/udp/233.33.210.48:5050
 http://195.64.140.147:10093/93
 #EXTINF:-1  group-title="Фильмы"  tvg-id="RusskiyIllusion.ru (5)"  tvg-logo="https://i.imgur.com/RlsqFN8.png"   tvg-name="Русский Иллюзион",Русский иллюзион [720x576@25]
 http://185.46.16.239:8000/Russkiy_Illyuzion
-#EXTINF:-1  group-title="Фильмы"  tvg-id="Russkiyroman.ru"  tvg-logo="https://i.imgur.com/cQN0P2B.png"   tvg-name="Русский роман",Русский роман [720x576@25]
-http://77.106.252.178:4022/udp/233.33.220.199:5050
 #EXTINF:-1  group-title="Фильмы"  tvg-id="Russkiyroman.ru (2)"  tvg-logo="https://i.imgur.com/cQN0P2B.png"   tvg-name="Русский роман",Русский роман [720x576@25]
+http://77.106.252.178:4022/udp/233.33.220.199:5050
+#EXTINF:-1  group-title="Фильмы"  tvg-id="Russkiyroman.ru"  tvg-logo="https://i.imgur.com/cQN0P2B.png"   tvg-name="Русский роман",Русский роман [720x576@25]
 http://95.66.188.74/RusRoman/mono.m3u8
 #EXTINF:-1  group-title="Фильмы"  tvg-id="Russkiyroman.ru (3)"  tvg-logo="https://i.imgur.com/cQN0P2B.png"   tvg-name="Русский роман",Русский роман [720x576@25]
 http://178.212.71.253:8000/play/42/index.m3u8
@@ -1051,9 +1051,9 @@ http://hls.goodgame.ru:8080/hls/204708.m3u8
 http://176.126.166.43:1935/live/312kino/playlist.m3u8
 #EXTINF:-1  group-title="Фильмы плюс"   tvg-name="Alpha Cinema",Alpha Cinema [1920x1080@25]
 http://live.15plusmg.ru/memfs/b389173a-df4e-4171-8904-e249893e71eb.m3u8
-#EXTINF:-1  group-title="Фильмы плюс"   tvg-name="Alpha Cinema",Alpha Cinema [1920x1080@25]
+#EXTINF:-1  group-title="Фильмы плюс"   tvg-name="Alpha Cinema (2)",Alpha Cinema [1920x1080@25]
 https://dvr3.vokkavideo.xyz/ALPHACINEMAHD/index.m3u8
-#EXTINF:-1  group-title="Фильмы плюс"   tvg-name="DTR ZONA 1",DTR ZONA 1 [1280x720@30]
+#EXTINF:-1  group-title="Фильмы плюс"   tvg-name="DTR ZONA 1 (2)",DTR ZONA 1 [1280x720@30]
 https://kino-stream.online/hls/DTRZONA1.m3u8
 #EXTINF:-1  group-title="Фильмы плюс"   tvg-name="DTR ZONA 1",DTR ZONA 1 [1280x720@30]
 https://217.114.0.151/hls/DTRZONA1.m3u8
@@ -1111,157 +1111,157 @@ http://84.245.224.71/StarFamilyHD/mono.m3u8
 http://146.120.14.239:3001/play/a08o
 #EXTINF:-1  group-title="Фильмы плюс"   tvg-name="TvBoom-ViP",TvBoom-ViP [1280x720@30]
 https://kb.catcast.tv/content/49702/index.m3u8
-#EXTINF:-1  group-title="Фильмы плюс"   tvg-name="Ushba TV-Retrovision Movies",Ushba TV-Retrovision Movies [1280x674@24]
+#EXTINF:-1  group-title="Фильмы плюс"   tvg-name="Ushba TV-Retrovision Movies (2)",Ushba TV-Retrovision Movies [1280x674@24]
 http://fl1001.bozztv.com/ushba-rvisionmovies/tracks-v1a1/mono.m3u8
-#EXTINF:-1  group-title="Фильмы плюс"   tvg-name="Ushba TV-Retrovision Movies",Ushba TV-Retrovision Movies [1280x674@24]
+#EXTINF:-1  group-title="Фильмы плюс"   tvg-name="Ushba TV-Retrovision Movies (3)",Ushba TV-Retrovision Movies [1280x674@24]
 https://dvrfl07.bozztv.com/ushba-rvisionmovies/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1  group-title="Фильмы плюс"   tvg-name="Ushba TV-Retrovision Movies",Ushba TV-Retrovision Movies [1280x674@24]
 https://rpn3.bozztv.com/dvrfl07/ushba-rvisionmovies/tracks-v1a1/mono.m3u8
 #EXTINF:-1  group-title="Фильмы плюс"   tvg-name="Ushba TV-Кинозалы 1",Ushba TV-Кинозалы 1 [1280x720@25]
 http://fl1001.bozztv.com/ushba13/tracks-v1a1/mono.m3u8
-#EXTINF:-1  group-title="Фильмы плюс"   tvg-name="Ushba TV-Кинозалы 1",Ushba TV-Кинозалы 1 [1280x720@25]
+#EXTINF:-1  group-title="Фильмы плюс"   tvg-name="Ushba TV-Кинозалы 1 (2)",Ushba TV-Кинозалы 1 [1280x720@25]
 https://rpn3.bozztv.com/dvrfl07/ushba13/tracks-v1a1/mono.m3u8
 #EXTINF:-1  group-title="Фильмы плюс"   tvg-name="Ushba TV-Кинозалы 10",Ushba TV-Кинозалы 10 [640x256@30]
 http://fl1001.bozztv.com/ushba-films-g/tracks-v1a1/mono.m3u8
-#EXTINF:-1  group-title="Фильмы плюс"   tvg-name="Ushba TV-Кинозалы 10",Ushba TV-Кинозалы 10 [640x256@30]
+#EXTINF:-1  group-title="Фильмы плюс"   tvg-name="Ushba TV-Кинозалы 10 (2)",Ushba TV-Кинозалы 10 [640x256@30]
 https://rpn3.bozztv.com/dvrfl07/ushba-films-g/tracks-v1a1/mono.m3u8
 #EXTINF:-1  group-title="Фильмы плюс"   tvg-name="Ushba TV-Кинозалы 11",Ushba TV-Кинозалы 11 [720x304@24]
 http://fl1001.bozztv.com/ushba-films-h/tracks-v1a1/mono.m3u8
-#EXTINF:-1  group-title="Фильмы плюс"   tvg-name="Ushba TV-Кинозалы 11",Ushba TV-Кинозалы 11 [720x304@24]
+#EXTINF:-1  group-title="Фильмы плюс"   tvg-name="Ushba TV-Кинозалы 11 (2)",Ushba TV-Кинозалы 11 [720x304@24]
 https://rpn3.bozztv.com/dvrfl07/ushba-films-h/tracks-v1a1/mono.m3u8
 #EXTINF:-1  group-title="Фильмы плюс"   tvg-name="Ushba TV-Кинозалы 12",Ushba TV-Кинозалы 12 [512x384@25]
 http://fl1001.bozztv.com/ushba-films-i/tracks-v1a1/mono.m3u8
-#EXTINF:-1  group-title="Фильмы плюс"   tvg-name="Ushba TV-Кинозалы 12",Ushba TV-Кинозалы 12 [512x384@25]
+#EXTINF:-1  group-title="Фильмы плюс"   tvg-name="Ushba TV-Кинозалы 12 (2)",Ushba TV-Кинозалы 12 [512x384@25]
 https://rpn3.bozztv.com/dvrfl07/ushba-films-i/tracks-v1a1/mono.m3u8
 #EXTINF:-1  group-title="Фильмы плюс"   tvg-name="Ushba TV-Кинозалы 13",Ushba TV-Кинозалы 13 [704x400@25]
 http://fl1001.bozztv.com/ushba-films-j/index.m3u8
-#EXTINF:-1  group-title="Фильмы плюс"   tvg-name="Ushba TV-Кинозалы 13",Ushba TV-Кинозалы 13 [704x400@25]
+#EXTINF:-1  group-title="Фильмы плюс"   tvg-name="Ushba TV-Кинозалы 13 (2)",Ushba TV-Кинозалы 13 [704x400@25]
 https://rpn3.bozztv.com/dvrfl07/ushba-films-j/index.m3u8
 #EXTINF:-1  group-title="Фильмы плюс"   tvg-name="Ushba TV-Кинозалы 14",Ushba TV-Кинозалы 14 [704x288@25]
 http://fl1001.bozztv.com/ushba-films-m/tracks-v1a1/mono.m3u8
-#EXTINF:-1  group-title="Фильмы плюс"   tvg-name="Ushba TV-Кинозалы 14",Ushba TV-Кинозалы 14 [704x288@25]
+#EXTINF:-1  group-title="Фильмы плюс"   tvg-name="Ushba TV-Кинозалы 14 (2)",Ushba TV-Кинозалы 14 [704x288@25]
 https://rpn3.bozztv.com/dvrfl07/ushba-films-m/tracks-v1a1/mono.m3u8
 #EXTINF:-1  group-title="Фильмы плюс"   tvg-name="Ushba TV-Кинозалы 15",Ushba TV-Кинозалы 15 [640x364@30]
 http://fl1001.bozztv.com/ushba-films-p/tracks-v1a1/mono.m3u8
-#EXTINF:-1  group-title="Фильмы плюс"   tvg-name="Ushba TV-Кинозалы 15",Ushba TV-Кинозалы 15 [640x368@30]
+#EXTINF:-1  group-title="Фильмы плюс"   tvg-name="Ushba TV-Кинозалы 15 (2)",Ushba TV-Кинозалы 15 [640x368@30]
 https://rpn3.bozztv.com/dvrfl07/ushba-films-p/tracks-v1a1/mono.m3u8
 #EXTINF:-1  group-title="Фильмы плюс"   tvg-name="Ushba TV-Кинозалы 16",Ushba TV-Кинозалы 16 [720x304@30]
 http://fl1001.bozztv.com/ushba-films-t/tracks-v1a1/mono.m3u8
-#EXTINF:-1  group-title="Фильмы плюс"   tvg-name="Ushba TV-Кинозалы 16",Ushba TV-Кинозалы 16 [720x304@30]
+#EXTINF:-1  group-title="Фильмы плюс"   tvg-name="Ushba TV-Кинозалы 16 (2)",Ushba TV-Кинозалы 16 [720x304@30]
 https://rpn3.bozztv.com/dvrfl07/ushba-films-t/tracks-v1a1/mono.m3u8
 #EXTINF:-1  group-title="Фильмы плюс"   tvg-name="Ushba TV-Кинозалы 17",Ushba TV-Кинозалы 17 [576x320@24]
 http://fl1001.bozztv.com/ushba-films-yz/tracks-v1a1/mono.m3u8
-#EXTINF:-1  group-title="Фильмы плюс"   tvg-name="Ushba TV-Кинозалы 17",Ushba TV-Кинозалы 17 [576x320@24]
+#EXTINF:-1  group-title="Фильмы плюс"   tvg-name="Ushba TV-Кинозалы 17 (2)",Ushba TV-Кинозалы 17 [576x320@24]
 https://rpn3.bozztv.com/dvrfl07/ushba-films-yz/tracks-v1a1/mono.m3u8
 #EXTINF:-1  group-title="Фильмы плюс"   tvg-name="Ushba TV-Кинозалы 18",Ushba TV-Кинозалы 18 [342x286@25]
 http://fl1001.bozztv.com/ushba-films-n/tracks-v1a1/mono.m3u8
-#EXTINF:-1  group-title="Фильмы плюс"   tvg-name="Ushba TV-Кинозалы 18",Ushba TV-Кинозалы 18 [342x286@25]
+#EXTINF:-1  group-title="Фильмы плюс"   tvg-name="Ushba TV-Кинозалы 18 (2)",Ushba TV-Кинозалы 18 [342x286@25]
 https://rpn3.bozztv.com/dvrfl07/ushba-films-n/tracks-v1a1/mono.m3u8
 #EXTINF:-1  group-title="Фильмы плюс"   tvg-name="Ushba TV-Кинозалы 19",Ushba TV-Кинозалы 19 [640x272@24]
 http://fl1001.bozztv.com/ushba-films-qr/tracks-v1a1/mono.m3u8
-#EXTINF:-1  group-title="Фильмы плюс"   tvg-name="Ushba TV-Кинозалы 19",Ushba TV-Кинозалы 19 [640x272@24]
+#EXTINF:-1  group-title="Фильмы плюс"   tvg-name="Ushba TV-Кинозалы 19 (2)",Ushba TV-Кинозалы 19 [640x272@24]
 https://rpn3.bozztv.com/dvrfl07/ushba-films-qr/tracks-v1a1/mono.m3u8
 #EXTINF:-1  group-title="Фильмы плюс"   tvg-name="Ushba TV-Кинозалы 2",Ushba TV-Кинозалы 2 [640x360@25]
 http://fl1001.bozztv.com/ushba14/tracks-v1a1/mono.m3u8
-#EXTINF:-1  group-title="Фильмы плюс"   tvg-name="Ushba TV-Кинозалы 2",Ushba TV-Кинозалы 2 [640x360@25]
+#EXTINF:-1  group-title="Фильмы плюс"   tvg-name="Ushba TV-Кинозалы 2 (2)",Ushba TV-Кинозалы 2 [640x360@25]
 https://rpn3.bozztv.com/dvrfl07/ushba14/tracks-v1a1/mono.m3u8
 #EXTINF:-1  group-title="Фильмы плюс"   tvg-name="Ushba TV-Кинозалы 20",Ushba TV-Кинозалы 20 [640x384@25]
 http://fl1001.bozztv.com/ushba-films-uv/tracks-v1a1/mono.m3u8
-#EXTINF:-1  group-title="Фильмы плюс"   tvg-name="Ushba TV-Кинозалы 20",Ushba TV-Кинозалы 20 [640x384@25]
+#EXTINF:-1  group-title="Фильмы плюс"   tvg-name="Ushba TV-Кинозалы 20 (2)",Ushba TV-Кинозалы 20 [640x384@25]
 https://rpn3.bozztv.com/dvrfl07/ushba-films-uv/tracks-v1a1/mono.m3u8
 #EXTINF:-1  group-title="Фильмы плюс"   tvg-name="Ushba TV-Кинозалы 21",Ushba TV-Кинозалы 21 [704x512@25]
 http://fl1001.bozztv.com/ushba-films-o/index.m3u8
-#EXTINF:-1  group-title="Фильмы плюс"   tvg-name="Ushba TV-Кинозалы 21",Ushba TV-Кинозалы 21 [704x512@25]
+#EXTINF:-1  group-title="Фильмы плюс"   tvg-name="Ushba TV-Кинозалы 21 (2)",Ushba TV-Кинозалы 21 [704x512@25]
 https://rpn3.bozztv.com/dvrfl07/ushba-films-o/index.m3u8
 #EXTINF:-1  group-title="Фильмы плюс"   tvg-name="Ushba TV-Кинозалы 22",Ushba TV-Кинозалы 22 [704x572@30]
 http://fl1001.bozztv.com/ushba-films-s/index.m3u8
-#EXTINF:-1  group-title="Фильмы плюс"   tvg-name="Ushba TV-Кинозалы 22",Ushba TV-Кинозалы 22 [512x288@25]
+#EXTINF:-1  group-title="Фильмы плюс"   tvg-name="Ushba TV-Кинозалы 22 (2)",Ushba TV-Кинозалы 22 [512x288@25]
 https://fl1001.bozztv.com/ushba-films-s/index.m3u8
-#EXTINF:-1  group-title="Фильмы плюс"   tvg-name="Ushba TV-Кинозалы 22",Ushba TV-Кинозалы 22 [704x572@30]
+#EXTINF:-1  group-title="Фильмы плюс"   tvg-name="Ushba TV-Кинозалы 22 (3)",Ushba TV-Кинозалы 22 [704x572@30]
 https://rpn3.bozztv.com/dvrfl07/ushba-films-s/index.m3u8
 #EXTINF:-1  group-title="Фильмы плюс"   tvg-name="Ushba TV-Кинозалы 23",Ushba TV-Кинозалы 23 [720x400@24]
 http://fl1001.bozztv.com/ushba-films-w/index.m3u8
-#EXTINF:-1  group-title="Фильмы плюс"   tvg-name="Ushba TV-Кинозалы 23",Ushba TV-Кинозалы 23 [720x400@24]
+#EXTINF:-1  group-title="Фильмы плюс"   tvg-name="Ushba TV-Кинозалы 23 (2)",Ushba TV-Кинозалы 23 [720x400@24]
 https://rpn3.bozztv.com/dvrfl07/ushba-films-w/index.m3u8
 #EXTINF:-1  group-title="Фильмы плюс"   tvg-name="Ushba TV-Кинозалы 24",Ushba TV-Кинозалы 24 [668x416@25]
 http://fl1001.bozztv.com/ushba-rfilrms-0/tracks-v1a1/mono.m3u8
-#EXTINF:-1  group-title="Фильмы плюс"   tvg-name="Ushba TV-Кинозалы 24",Ushba TV-Кинозалы 24 [668x416@25]
+#EXTINF:-1  group-title="Фильмы плюс"   tvg-name="Ushba TV-Кинозалы 24 (2)",Ushba TV-Кинозалы 24 [668x416@25]
 https://rpn3.bozztv.com/dvrfl07/ushba-rfilrms-0/tracks-v1a1/mono.m3u8
 #EXTINF:-1  group-title="Фильмы плюс"   tvg-name="Ushba TV-Кинозалы 25",Ushba TV-Кинозалы 25 [720x544@25]
 http://fl1001.bozztv.com/ushba-rfilrms-a/tracks-v1a1/mono.m3u8
-#EXTINF:-1  group-title="Фильмы плюс"   tvg-name="Ushba TV-Кинозалы 25",Ushba TV-Кинозалы 25 [720x544@25]
+#EXTINF:-1  group-title="Фильмы плюс"   tvg-name="Ushba TV-Кинозалы 25 (2)",Ushba TV-Кинозалы 25 [720x544@25]
 https://rpn3.bozztv.com/dvrfl07/ushba-rfilrms-a/tracks-v1a1/mono.m3u8
 #EXTINF:-1  group-title="Фильмы плюс"   tvg-name="Ushba TV-Кинозалы 26",Ushba TV-Кинозалы 26 [592x448@25]
 http://fl1001.bozztv.com/ushba-rfilrms-b/index.m3u8
-#EXTINF:-1  group-title="Фильмы плюс"   tvg-name="Ushba TV-Кинозалы 26",Ushba TV-Кинозалы 26 [704x530@25]
+#EXTINF:-1  group-title="Фильмы плюс"   tvg-name="Ushba TV-Кинозалы 26 (2)",Ushba TV-Кинозалы 26 [704x530@25]
 https://rpn3.bozztv.com/dvrfl07/ushba-rfilrms-b/index.m3u8
 #EXTINF:-1  group-title="Фильмы плюс"   tvg-name="Ushba TV-Кинозалы 28",Ushba TV-Кинозалы 28 [696x536@25]
 http://fl1001.bozztv.com/ushba-rfilrms-d/tracks-v1a1/mono.m3u8
-#EXTINF:-1  group-title="Фильмы плюс"   tvg-name="Ushba TV-Кинозалы 28",Ushba TV-Кинозалы 28 [696x536@25]
+#EXTINF:-1  group-title="Фильмы плюс"   tvg-name="Ushba TV-Кинозалы 28 (2)",Ushba TV-Кинозалы 28 [696x536@25]
 https://rpn3.bozztv.com/dvrfl07/ushba-rfilrms-d/tracks-v1a1/mono.m3u8
 #EXTINF:-1  group-title="Фильмы плюс"   tvg-name="Ushba TV-Кинозалы 29",Ushba TV-Кинозалы 29 [384x288@25]
 http://fl1001.bozztv.com/ushba-rfilrms-e/tracks-v1a1/mono.m3u8
-#EXTINF:-1  group-title="Фильмы плюс"   tvg-name="Ushba TV-Кинозалы 29",Ushba TV-Кинозалы 29 [384x288@25]
+#EXTINF:-1  group-title="Фильмы плюс"   tvg-name="Ushba TV-Кинозалы 29 (2)",Ushba TV-Кинозалы 29 [384x288@25]
 https://rpn3.bozztv.com/dvrfl07/ushba-rfilrms-e/tracks-v1a1/mono.m3u8
 #EXTINF:-1  group-title="Фильмы плюс"   tvg-name="Ushba TV-Кинозалы 3",Ushba TV-Кинозалы 3 [1280x720@25]
 http://fl1001.bozztv.com/ushba24/tracks-v1a1/mono.m3u8
-#EXTINF:-1  group-title="Фильмы плюс"   tvg-name="Ushba TV-Кинозалы 3",Ushba TV-Кинозалы 3 [1280x720@25]
+#EXTINF:-1  group-title="Фильмы плюс"   tvg-name="Ushba TV-Кинозалы 3 (2)",Ushba TV-Кинозалы 3 [1280x720@25]
 https://rpn3.bozztv.com/dvrfl07/ushba24/tracks-v1a1/mono.m3u8
 #EXTINF:-1  group-title="Фильмы плюс"   tvg-name="Ushba TV-Кинозалы 30",Ushba TV-Кинозалы 30 [718x480@25]
 http://fl1001.bozztv.com/ushba-rfilrms-g/tracks-v1a1/mono.m3u8
-#EXTINF:-1  group-title="Фильмы плюс"   tvg-name="Ushba TV-Кинозалы 30",Ushba TV-Кинозалы 30 [718x480@25]
+#EXTINF:-1  group-title="Фильмы плюс"   tvg-name="Ushba TV-Кинозалы 30 (2)",Ushba TV-Кинозалы 30 [718x480@25]
 https://rpn3.bozztv.com/dvrfl07/ushba-rfilrms-g/tracks-v1a1/mono.m3u8
 #EXTINF:-1  group-title="Фильмы плюс"   tvg-name="Ushba TV-Кинозалы 31",Ushba TV-Кинозалы 31 [704x528@25]
 http://fl1001.bozztv.com/ushba-rfilrms-i/tracks-v1a1/mono.m3u8
-#EXTINF:-1  group-title="Фильмы плюс"   tvg-name="Ushba TV-Кинозалы 31",Ushba TV-Кинозалы 31 [704x528@25]
+#EXTINF:-1  group-title="Фильмы плюс"   tvg-name="Ushba TV-Кинозалы 31 (2)",Ushba TV-Кинозалы 31 [704x528@25]
 https://rpn3.bozztv.com/dvrfl07/ushba-rfilrms-i/tracks-v1a1/mono.m3u8
 #EXTINF:-1  group-title="Фильмы плюс"   tvg-name="Ushba TV-Кинозалы 33",Ushba TV-Кинозалы 33 [704x528@25]
 http://fl1001.bozztv.com/ushba-rfilrms-p/tracks-v1a1/mono.m3u8
-#EXTINF:-1  group-title="Фильмы плюс"   tvg-name="Ushba TV-Кинозалы 33",Ushba TV-Кинозалы 33 [704x528@25]
+#EXTINF:-1  group-title="Фильмы плюс"   tvg-name="Ushba TV-Кинозалы 33 (2)",Ushba TV-Кинозалы 33 [704x528@25]
 https://rpn3.bozztv.com/dvrfl07/ushba-rfilrms-p/tracks-v1a1/mono.m3u8
 #EXTINF:-1  group-title="Фильмы плюс"   tvg-name="Ushba TV-Кинозалы 34",Ushba TV-Кинозалы 34 [718x304@25]
 http://fl1001.bozztv.com/ushba-rfilrms-v/tracks-v1a1/mono.m3u8
-#EXTINF:-1  group-title="Фильмы плюс"   tvg-name="Ushba TV-Кинозалы 34",Ushba TV-Кинозалы 34 [718x304@25]
+#EXTINF:-1  group-title="Фильмы плюс"   tvg-name="Ushba TV-Кинозалы 34 (2)",Ushba TV-Кинозалы 34 [718x304@25]
 https://rpn3.bozztv.com/dvrfl07/ushba-rfilrms-v/tracks-v1a1/mono.m3u8
 #EXTINF:-1  group-title="Фильмы плюс"   tvg-name="Ushba TV-Кинозалы 35",Ushba TV-Кинозалы 35 [720x576@25]
 http://fl1001.bozztv.com/ushba-rfilrms-z/tracks-v1a1/mono.m3u8
-#EXTINF:-1  group-title="Фильмы плюс"   tvg-name="Ushba TV-Кинозалы 35",Ushba TV-Кинозалы 35 [656x302@25]
+#EXTINF:-1  group-title="Фильмы плюс"   tvg-name="Ushba TV-Кинозалы 35 (2)",Ushba TV-Кинозалы 35 [656x302@25]
 https://fl1001.bozztv.com/ushba-rfilrms-z/tracks-v1a1/mono.m3u8
-#EXTINF:-1  group-title="Фильмы плюс"   tvg-name="Ushba TV-Кинозалы 35",Ushba TV-Кинозалы 35 [656x302@25]
+#EXTINF:-1  group-title="Фильмы плюс"   tvg-name="Ushba TV-Кинозалы 35 (6)",Ushba TV-Кинозалы 35 [656x302@25]
 https://rpn3.bozztv.com/dvrfl07/ushba-rfilrms-z/tracks-v1a1/mono.m3u8
 #EXTINF:-1  group-title="Фильмы плюс"   tvg-name="Ushba TV-Кинозалы 36",Ushba TV-Кинозалы 36 [1280x720@25]
 https://stream.ushba.tv/akamaiushba/ushba32/tracks-v1a1/mono.m3u8
-#EXTINF:-1  group-title="Фильмы плюс"   tvg-name="Ushba TV-Кинозалы 36",Ushba TV-Кинозалы 36 [1280x536@24]
+#EXTINF:-1  group-title="Фильмы плюс"   tvg-name="Ushba TV-Кинозалы 36 (2)",Ushba TV-Кинозалы 36 [1280x536@24]
 http://fl1001.bozztv.com/ushba64/index.m3u8
-#EXTINF:-1  group-title="Фильмы плюс"   tvg-name="Ushba TV-Кинозалы 36",Ushba TV-Кинозалы 36 [1280x720@25]
+#EXTINF:-1  group-title="Фильмы плюс"   tvg-name="Ushba TV-Кинозалы 36 (3)",Ushba TV-Кинозалы 36 [1280x720@25]
 https://fl1004.bozztv.com/ushba32/tracks-v1a1/mono.m3u8
-#EXTINF:-1  group-title="Фильмы плюс"   tvg-name="Ushba TV-Кинозалы 36",Ushba TV-Кинозалы 36 [1280x720@25]
+#EXTINF:-1  group-title="Фильмы плюс"   tvg-name="Ushba TV-Кинозалы 36 (4)",Ushba TV-Кинозалы 36 [1280x720@25]
 https://rpn3.bozztv.com/dvrfl07/ushba32/tracks-v1a1/mono.m3u8
-#EXTINF:-1  group-title="Фильмы плюс"   tvg-name="Ushba TV-Кинозалы 36",Ushba TV-Кинозалы 36 [1280x536@24]
+#EXTINF:-1  group-title="Фильмы плюс"   tvg-name="Ushba TV-Кинозалы 36 (5)",Ushba TV-Кинозалы 36 [1280x536@24]
 https://rpn3.bozztv.com/dvrfl07/ushba64/index.m3u8
 #EXTINF:-1  group-title="Фильмы плюс"   tvg-name="Ushba TV-Кинозалы 37",Ushba TV-Кинозалы 37 [720x400@24]
 http://fl1001.bozztv.com/ushba65/index.m3u8
 #EXTINF:-1  group-title="Фильмы плюс"   tvg-name="Ushba TV-Кинозалы 4",Ushba TV-Кинозалы 4 [1280x720@30]
 http://fl1001.bozztv.com/ushba26/tracks-v1a1/mono.m3u8
-#EXTINF:-1  group-title="Фильмы плюс"   tvg-name="Ushba TV-Кинозалы 4",Ushba TV-Кинозалы 4 [640x270@30]
+#EXTINF:-1  group-title="Фильмы плюс"   tvg-name="Ushba TV-Кинозалы 4 (2)",Ushba TV-Кинозалы 4 [640x270@30]
 https://fl1001.bozztv.com/ushba26/tracks-v1a1/mono.m3u8
-#EXTINF:-1  group-title="Фильмы плюс"   tvg-name="Ushba TV-Кинозалы 4",Ushba TV-Кинозалы 4 [640x270@30]
+#EXTINF:-1  group-title="Фильмы плюс"   tvg-name="Ushba TV-Кинозалы 4 (3)",Ushba TV-Кинозалы 4 [640x270@30]
 https://rpn3.bozztv.com/dvrfl07/ushba26/tracks-v1a1/mono.m3u8
 #EXTINF:-1  group-title="Фильмы плюс"   tvg-name="Ushba TV-Кинозалы 5",Ushba TV-Кинозалы 5 [704x398@25]
 http://fl1001.bozztv.com/ushba-films-b/tracks-v1a1/mono.m3u8
-#EXTINF:-1  group-title="Фильмы плюс"   tvg-name="Ushba TV-Кинозалы 5",Ushba TV-Кинозалы 5 [704x398@25]
+#EXTINF:-1  group-title="Фильмы плюс"   tvg-name="Ushba TV-Кинозалы 5 (2)",Ushba TV-Кинозалы 5 [704x398@25]
 https://rpn3.bozztv.com/dvrfl07/ushba-films-b/tracks-v1a1/mono.m3u8
 #EXTINF:-1  group-title="Фильмы плюс"   tvg-name="Ushba TV-Кинозалы 7",Ushba TV-Кинозалы 7 [576x320@24]
 http://fl1001.bozztv.com/ushba-films-d/tracks-v1a1/mono.m3u8
-#EXTINF:-1  group-title="Фильмы плюс"   tvg-name="Ushba TV-Кинозалы 7",Ushba TV-Кинозалы 7 [576x320@24]
+#EXTINF:-1  group-title="Фильмы плюс"   tvg-name="Ushba TV-Кинозалы 7 (2)",Ushba TV-Кинозалы 7 [576x320@24]
 https://rpn3.bozztv.com/dvrfl07/ushba-films-d/tracks-v1a1/mono.m3u8
 #EXTINF:-1  group-title="Фильмы плюс"   tvg-name="Ushba TV-Кинозалы 8",Ushba TV-Кинозалы 8 [640x360@24]
 http://fl1001.bozztv.com/ushba-films-e/tracks-v1a1/mono.m3u8
-#EXTINF:-1  group-title="Фильмы плюс"   tvg-name="Ushba TV-Кинозалы 8",Ushba TV-Кинозалы 8 [640x360@24]
+#EXTINF:-1  group-title="Фильмы плюс"   tvg-name="Ushba TV-Кинозалы 8 (2)",Ushba TV-Кинозалы 8 [640x360@24]
 https://rpn3.bozztv.com/dvrfl07/ushba-films-e/tracks-v1a1/mono.m3u8
 #EXTINF:-1  group-title="Фильмы плюс"   tvg-name="Ushba TV-Кинозалы 9",Ushba TV-Кинозалы 9 [576x432@24]
 http://fl1001.bozztv.com/ushba-films-f/tracks-v1a1/mono.m3u8
-#EXTINF:-1  group-title="Фильмы плюс"   tvg-name="Ushba TV-Кинозалы 9",Ushba TV-Кинозалы 9 [576x432@24]
+#EXTINF:-1  group-title="Фильмы плюс"   tvg-name="Ushba TV-Кинозалы 9 (2)",Ushba TV-Кинозалы 9 [576x432@24]
 https://rpn3.bozztv.com/dvrfl07/ushba-films-f/tracks-v1a1/mono.m3u8
 #EXTINF:-1  group-title="Фильмы плюс"   tvg-name="Ushba TV-Кинозалы ??",Ushba TV-Кинозалы ?? [640x360@25]
 https://fl1001.bozztv.com/ushba77/tracks-v1a1/mono.m3u8
@@ -1341,9 +1341,9 @@ http://95.85.109.219:7000/play/a088
 http://146.120.14.239:3001/play/a06z
 #EXTINF:-1  group-title="Познавательный"  tvg-id="AnimalPlanet.ru (5)"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/512px-2018_Animal_Planet_logo.svg.png"   tvg-name="Animal Planet",Animal Planet [1920x1080@25]
 http://31.148.48.15/Animal_Planet_HD/index.m3u8
-#EXTINF:-1  group-title="Познавательный"  tvg-id="BigPlanet.ru"  tvg-logo="https://i.imgur.com/wyuqWTR.png"   tvg-name="Big Planet",Big Planet [1920x1080@25]
-http://85.88.175.48:2020/udp/239.4.10.151:2020
 #EXTINF:-1  group-title="Познавательный"  tvg-id="BigPlanet.ru (2)"  tvg-logo="https://i.imgur.com/wyuqWTR.png"   tvg-name="Big Planet",Big Planet [1920x1080@25]
+http://85.88.175.48:2020/udp/239.4.10.151:2020
+#EXTINF:-1  group-title="Познавательный"  tvg-id="BigPlanet.ru"  tvg-logo="https://i.imgur.com/wyuqWTR.png"   tvg-name="Big Planet",Big Planet [1920x1080@25]
 http://109.75.59.241:8017/BigPlanet/index.m3u8
 #EXTINF:-1  group-title="Познавательный"  tvg-id="DaVinci.ru"  tvg-logo="https://i.imgur.com/iBx7K1M.png"   tvg-name="Da Vinci",Da Vinci [720x576@25]
 http://158.101.222.193:88/georgia_play.php?id=davinci
@@ -1399,9 +1399,9 @@ http://193.25.8.59:8000/rtg
 http://85.88.175.48:2020/udp/239.4.10.159:2020
 #EXTINF:-1  group-title="Познавательный"  tvg-id="RTGHD.ru (5)"  tvg-logo="https://i.imgur.com/jEkgahl.png" ,RTG HD [1280x720@50]
 http://31.148.48.15/RTG_HD/index.m3u8
-#EXTINF:-1  group-title="Познавательный"  tvg-id="RTGTV.ru"  tvg-logo="https://i.imgur.com/ZMKPAho.png"   tvg-name="RTG TV",RTG TV [1920x1080@25]
-http://95.66.188.74/RTGHD/index.m3u8
 #EXTINF:-1  group-title="Познавательный"  tvg-id="RTGTV.ru (2)"  tvg-logo="https://i.imgur.com/ZMKPAho.png"   tvg-name="RTG TV",RTG TV [1920x1080@25]
+http://95.66.188.74/RTGHD/index.m3u8
+#EXTINF:-1  group-title="Познавательный"  tvg-id="RTGTV.ru"  tvg-logo="https://i.imgur.com/ZMKPAho.png"   tvg-name="RTG TV",RTG TV [1920x1080@25]
 http://178.212.71.253:8000/play/71/index.m3u8
 #EXTINF:-1  group-title="Познавательный"  tvg-id="RTGTV.ru (3)"  tvg-logo="https://i.imgur.com/ZMKPAho.png"   tvg-name="RTG TV",RTG TV [1920x1080@25]
 http://217.21.34.160:38007/rtghd/index.m3u8
@@ -1451,9 +1451,9 @@ https://vod.splay.uz/live_splay/original/Viasat_History/tracks-v1a1/mono.m3u8
 http://178.134.1.158:8081/viasathistory/index.m3u8
 #EXTINF:-1  group-title="Познавательный"  tvg-id="vijuHistory.ru (5)"  tvg-logo="https://i.imgur.com/FqWkeXb.png"   tvg-name="Viju History",viju History [720x576@25]
 http://195.64.140.147:10145/145
-#EXTINF:-1  group-title="Познавательный"  tvg-id="vijuNature.ru"  tvg-logo="https://i.imgur.com/8BPZ18l.png"   tvg-name="Viju Nature",viju Nature [720x576@25]
-http://195.26.83.96:7013/play/37/index.m3u8
 #EXTINF:-1  group-title="Познавательный"  tvg-id="vijuNature.ru (2)"  tvg-logo="https://i.imgur.com/8BPZ18l.png"   tvg-name="Viju Nature",viju Nature [720x576@25]
+http://195.26.83.96:7013/play/37/index.m3u8
+#EXTINF:-1  group-title="Познавательный"  tvg-id="vijuNature.ru"  tvg-logo="https://i.imgur.com/8BPZ18l.png"   tvg-name="Viju Nature",viju Nature [720x576@25]
 http://158.101.222.193:88/georgia_play.php?id=viasatnat
 #EXTINF:-1  group-title="Познавательный"  tvg-id="vijuNature.ru (3)"  tvg-logo="https://i.imgur.com/8BPZ18l.png"   tvg-name="Viju Nature",viju Nature [720x576@25]
 https://vod.splay.uz/live_splay/original/Viasat_Nature/tracks-v1a1/mono.m3u8
@@ -1529,32 +1529,7 @@ http://95.66.188.74/Shanson_TV/mono.m3u8
 http://hls-shansontv.cdnvideo.ru/shansontv/shansontv.sdp/playlist.m3u8
 #EXTINF:-1  group-title="Радио"  tvg-id="ShansonTV.ru (4)"  tvg-logo="https://i.imgur.com/NBWyJJQ.png"   tvg-name="Шансон ТВ",Шансон ТВ [720x404@25]
 http://hls.shansontv.cdnvideo.ru/shansontv/shansontv.sdp/playlist.m3u8
-#EXTINF:-1  group-title="Радио"  tvg-logo="http://iptvn.idc.md/img/ico/40.gif"   tvg-name="Love radio",Love radio
-http://217.19.212.8:8130/
-#EXTINF:-1  group-title="Радио"  tvg-logo="http://iptvn.idc.md/img/ico/51.gif"   tvg-name="Relax FM",Relax FM
-http://217.19.212.8:8119/
-#EXTINF:-1  group-title="Радио"  tvg-id="avtoradio"  tvg-logo="http://iptvn.idc.md/img/ico/52.gif"   tvg-name="Авторадио",Авторадио
-http://217.19.212.8:8122/
-#EXTINF:-1  group-title="Радио"  tvg-id="dorozhnoe-radio"  tvg-logo="http://iptvn.idc.md/img/ico/53.gif"   tvg-name="Дорожное радио",Дорожное радио
-http://217.19.212.8:8123/
-#EXTINF:-1  group-title="Радио"  tvg-logo="http://iptvn.idc.md/img/ico/131.gif"   tvg-name="Дорожное радио Тирасполь",Дорожное радио Тирасполь
-http://217.19.212.8:8018
-#EXTINF:-1  group-title="Радио"  tvg-logo="http://iptvn.idc.md/img/ico/61.gif"   tvg-name="Мелодия FM Укр",Мелодия FM Укр
-http://217.19.212.8:8131/
-#EXTINF:-1  group-title="Радио"  tvg-logo="http://iptvn.idc.md/img/ico/44.gif"   tvg-name="Радио Приднестровья",Радио Приднестровья
-https://radio.pgtrk.com:8443/stream
-#EXTINF:-1  group-title="Радио"  tvg-logo="http://iptvn.idc.md/img/ico/55.gif"   tvg-name="Рекорд",Рекорд
-http://217.19.212.8:8125/
-#EXTINF:-1  group-title="Радио"  tvg-id="retro-fm"  tvg-logo="http://iptvn.idc.md/img/ico/59.gif"   tvg-name="Ретро FM",Ретро FM
-http://217.19.212.8:8121/
-#EXTINF:-1  group-title="Радио"  tvg-id="xit-fm"  tvg-logo="http://iptvn.idc.md/img/ico/866.gif"   tvg-name="Хит FM",Хит FM
-http://217.19.212.8:8138/
-#EXTINF:-1  group-title="Радио"  tvg-logo="http://iptvn.idc.md/img/ico/57.gif"   tvg-name="Шансон",Шансон
-http://217.19.212.8:8127/
-#EXTINF:-1  group-title="Радио"  tvg-logo="http://iptvn.idc.md/img/ico/119.gif"   tvg-name="Шансон Тирасполь",Шансон Тирасполь
-http://217.19.212.8:8012/
-#EXTINF:-1  group-title="Радио"  tvg-id="yumor-fm"  tvg-logo="http://iptvn.idc.md/img/ico/250.gif"   tvg-name="Юмор FM",Юмор FM
-http://217.19.212.8:8135/
 #EXT-X-ENDLIST
+
 
 
