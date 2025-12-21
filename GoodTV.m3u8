@@ -419,9 +419,9 @@ http://185.46.16.239:8000/Mult
 http://195.158.223.132:8006/Mult
 #EXTINF:-1  group-title="Детский"  tvg-id="Mult.ru (7)"  tvg-logo="https://i.imgur.com/xi351Fx.png"   tvg-name="Мульт",Мульт [720x576@25]
 http://195.64.140.147:10132/132
-#EXTINF:-1  group-title="Фильмы"  tvg-id="black.ru"  tvg-logo="https://i.imgur.com/Q4A6ci4.png"   tvg-name="Sony Turbo",.black [720x576@25]
+#EXTINF:-1  group-title="Фильмы"  tvg-id="black.ru (2)"  tvg-logo="https://i.imgur.com/Q4A6ci4.png"   tvg-name="Sony Turbo",.black [720x576@25]
 http://95.66.188.74/.black/index.m3u8
-#EXTINF:-1  group-title="Фильмы"  tvg-id="black.ru (2)"  tvg-logo="https://i.imgur.com/Q4A6ci4.png"   tvg-name="Sony Turbo",.black [768x576@25]
+#EXTINF:-1  group-title="Фильмы"  tvg-id="black.ru"  tvg-logo="https://i.imgur.com/Q4A6ci4.png"   tvg-name="Sony Turbo",.black [768x576@25]
 http://158.101.222.193:88/georgia_play.php?id=black
 #EXTINF:-1  group-title="Фильмы"  tvg-id="black.ru (3)"  tvg-logo="https://i.imgur.com/Q4A6ci4.png"   tvg-name="Sony Turbo",.black [720x576@25]
 http://195.158.223.132:8000/.Black
@@ -489,9 +489,9 @@ http://158.101.222.193:88/georgia_play.php?id=amediahit
 http://146.120.14.239:3001/play/a07j
 #EXTINF:-1  group-title="Фильмы"  tvg-id="AmediaHit.ru (3)"  tvg-logo="https://i.imgur.com/a8ZBGBw.png"   tvg-name="Amedia Hit",Amedia Hit [1280x720@50]
 http://31.148.48.15/Amedia_HIT_HD/index.m3u8
-#EXTINF:-1  group-title="Фильмы"  tvg-id="AmediaPremium.ru"  tvg-logo="https://i.imgur.com/UUjehw9.png"   tvg-name="Amedia Premium",Amedia Premium [1920x1080@25]
+#EXTINF:-1  group-title="Фильмы"  tvg-id="AmediaPremium.ru(2)"  tvg-logo="https://i.imgur.com/UUjehw9.png"   tvg-name="Amedia Premium",Amedia Premium [1920x1080@25]
 http://217.21.34.160:38007/amediapremium/index.m3u8
-#EXTINF:-1  group-title="Фильмы"  tvg-id="AmediaPremium.ru (2)"  tvg-logo="https://i.imgur.com/UUjehw9.png"   tvg-name="Amedia Premium",Amedia Premium [1280x720@25]
+#EXTINF:-1  group-title="Фильмы"  tvg-id="AmediaPremium.ru"  tvg-logo="https://i.imgur.com/UUjehw9.png"   tvg-name="Amedia Premium",Amedia Premium [1280x720@25]
 http://158.101.222.193:88/georgia_play.php?id=amediapremium
 #EXTINF:-1  group-title="Фильмы"  tvg-id="AmediaPremium.ru (3)"  tvg-logo="https://i.imgur.com/UUjehw9.png"   tvg-name="Amedia Premium",Amedia Premium [1920x1080@25]
 http://146.120.14.239:3001/play/a06u
@@ -531,9 +531,9 @@ http://188.237.47.212:6008
 http://146.120.14.239:3001/play/a06t
 #EXTINF:-1  group-title="Фильмы"  tvg-id="Hollywood.ru (2)"  tvg-logo="https://i.imgur.com/1j7cT2I.png"   tvg-name="HollywooD",HollywooD [720x576@25]
 http://193.25.8.59:8000/interaz
-#EXTINF:-1  group-title="Фильмы"  tvg-id="HollywoodHD.ru"  tvg-logo="https://i.imgur.com/7fBRrTL.png" ,HollywooD HD
+#EXTINF:-1  group-title="Фильмы"  tvg-id="HollywoodHD.ru (2)"  tvg-logo="https://i.imgur.com/7fBRrTL.png" ,HollywooD HD
 http://77.106.252.178:4022/udp/233.33.210.189:5050
-#EXTINF:-1  group-title="Фильмы"  tvg-id="HollywoodHD.ru (2)"  tvg-logo="https://i.imgur.com/7fBRrTL.png" ,HollywooD HD [1920x1080@25]
+#EXTINF:-1  group-title="Фильмы"  tvg-id="HollywoodHD.ru"  tvg-logo="https://i.imgur.com/7fBRrTL.png" ,HollywooD HD [1920x1080@25]
 http://157.90.0.245:8070/HOLLYWOOD_HD/index.m3u8
 #EXTINF:-1  group-title="Фильмы"  tvg-id="MovieClassic.ru"  tvg-logo="https://i.imgur.com/bMLz7xx.png"   tvg-name="Классика Кино",Movie Classic [1280x720@25]
 http://195.64.140.147:10061/61
@@ -1556,3 +1556,4 @@ http://217.19.212.8:8012/
 #EXTINF:-1  group-title="Радио"  tvg-id="yumor-fm"  tvg-logo="http://iptvn.idc.md/img/ico/250.gif"   tvg-name="Юмор FM",Юмор FM
 http://217.19.212.8:8135/
 #EXT-X-ENDLIST
+
