@@ -1111,15 +1111,15 @@ http://84.245.224.71/StarFamilyHD/mono.m3u8
 http://146.120.14.239:3001/play/a08o
 #EXTINF:-1  group-title="Фильмы плюс"   tvg-name="TvBoom-ViP",TvBoom-ViP [1280x720@30]
 https://kb.catcast.tv/content/49702/index.m3u8
-#EXTINF:-1  group-title="Фильмы плюс"   tvg-name="Ushba TV-Retrovision Movies (2)",Ushba TV-Retrovision Movies [1280x674@24]
+#EXTINF:-1  group-title="Фильмы плюс"    tvg-id="Ushba TV-Retrovision Movies (2)",Ushba TV-Retrovision Movies [1280x674@24]
 http://fl1001.bozztv.com/ushba-rvisionmovies/tracks-v1a1/mono.m3u8
-#EXTINF:-1  group-title="Фильмы плюс"   tvg-name="Ushba TV-Retrovision Movies (3)",Ushba TV-Retrovision Movies [1280x674@24]
+#EXTINF:-1  group-title="Фильмы плюс"    tvg-id="Ushba TV-Retrovision Movies (3)",Ushba TV-Retrovision Movies [1280x674@24]
 https://dvrfl07.bozztv.com/ushba-rvisionmovies/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1  group-title="Фильмы плюс"   tvg-name="Ushba TV-Retrovision Movies",Ushba TV-Retrovision Movies [1280x674@24]
+#EXTINF:-1  group-title="Фильмы плюс"    tvg-id="Ushba TV-Retrovision Movies",Ushba TV-Retrovision Movies [1280x674@24]
 https://rpn3.bozztv.com/dvrfl07/ushba-rvisionmovies/tracks-v1a1/mono.m3u8
-#EXTINF:-1  group-title="Фильмы плюс"   tvg-name="Ushba TV-Кинозалы 1",Ushba TV-Кинозалы 1 [1280x720@25]
+#EXTINF:-1  group-title="Фильмы плюс"   tvg-id="Ushba TV-Кинозалы 1",Ushba TV-Кинозалы 1 [1280x720@25]
 http://fl1001.bozztv.com/ushba13/tracks-v1a1/mono.m3u8
-#EXTINF:-1  group-title="Фильмы плюс"   tvg-name="Ushba TV-Кинозалы 1 (2)",Ushba TV-Кинозалы 1 [1280x720@25]
+#EXTINF:-1  group-title="Фильмы плюс"   tvg-id="Ushba TV-Кинозалы 1 (2)",Ushba TV-Кинозалы 1 [1280x720@25]
 https://rpn3.bozztv.com/dvrfl07/ushba13/tracks-v1a1/mono.m3u8
 #EXTINF:-1  group-title="Фильмы плюс"   tvg-name="Ushba TV-Кинозалы 10",Ushba TV-Кинозалы 10 [640x256@30]
 http://fl1001.bozztv.com/ushba-films-g/tracks-v1a1/mono.m3u8
@@ -1530,6 +1530,7 @@ http://hls-shansontv.cdnvideo.ru/shansontv/shansontv.sdp/playlist.m3u8
 #EXTINF:-1  group-title="Радио"  tvg-id="ShansonTV.ru (4)"  tvg-logo="https://i.imgur.com/NBWyJJQ.png"   tvg-name="Шансон ТВ",Шансон ТВ [720x404@25]
 http://hls.shansontv.cdnvideo.ru/shansontv/shansontv.sdp/playlist.m3u8
 #EXT-X-ENDLIST
+
 
 
 
