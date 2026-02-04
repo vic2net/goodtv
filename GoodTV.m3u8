@@ -1,4 +1,7 @@
 #EXTM3U url-tvg="https://epg.admuspeh.my/epg.xml.gz"
+#EXTINF:-1 tvg-id="Russia1.ru" group-title="Информационные"  tvg-logo="https://icon.admuspeh.my/icon/%D0%9F%D0%B5%D1%80%D0%B2%D1%8B%D0%B9%20%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%20FHD.png" catchup="default" catchup-days="7" catchup-source="http://cdn.admuspeh.my/8150/video-${start}-${duration}.m3u8?token=8oj9xSWQPUsf6YxF" timeshift="7", Первый канал HD
+http://cdn.admuspeh.my/8150/video.m3u8?token=8oj9xSWQPUsf6YxF
+
 #EXTINF:-1 tvg-id="Мир HD" group-title="⭐ Избранное"  tvg-logo="https://icon.admuspeh.my/icon/%D0%9C%D0%B8%D1%80%20HD.png" catchup="default" catchup-days="7" catchup-source="http://cdn.admuspeh.my/8560/video-${start}-${duration}.m3u8?token=8oj9xSWQPUsf6YxF" timeshift="7", Мир HD
 http://cdn.admuspeh.my/8560/video.m3u8?token=8oj9xSWQPUsf6YxF
 #EXTINF:-1 tvg-id="НТВ Сериал" group-title="⭐ Избранное"  tvg-logo="https://icon.admuspeh.my/icon/%D0%9D%D0%A2%D0%92%20%D0%A1%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%20orig.png" catchup="default" catchup-days="7" catchup-source="http://cdn.admuspeh.my/8308/video-${start}-${duration}.m3u8?token=8oj9xSWQPUsf6YxF" timeshift="7", НТВ Сериал
@@ -575,8 +578,7 @@ http://cdn.admuspeh.my/9077/video.m3u8?token=8oj9xSWQPUsf6YxF
 http://cdn.admuspeh.my/9080/video.m3u8?token=8oj9xSWQPUsf6YxF
 #EXTINF:-1 tvg-id="Kernel TV Счастливого нового года HD" group-title="Киноканалы"  tvg-logo="https://icon.admuspeh.my/icon/kernel_happy_new_year.png" catchup="default" catchup-days="3" catchup-source="http://cdn.admuspeh.my/9084/video-${start}-${duration}.m3u8?token=8oj9xSWQPUsf6YxF" timeshift="3", Kernel TV Счастливого нового года HD
 http://cdn.admuspeh.my/9084/video.m3u8?token=8oj9xSWQPUsf6YxF
-#EXTINF:-1 tvg-id="Первый канал HD" group-title="Информационные"  tvg-logo="https://icon.admuspeh.my/icon/%D0%9F%D0%B5%D1%80%D0%B2%D1%8B%D0%B9%20%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%20FHD.png" catchup="default" catchup-days="7" catchup-source="http://cdn.admuspeh.my/8150/video-${start}-${duration}.m3u8?token=8oj9xSWQPUsf6YxF" timeshift="7", Первый канал HD
-http://cdn.admuspeh.my/8150/video.m3u8?token=8oj9xSWQPUsf6YxF
+
 #EXTINF:-1 tvg-id="Россия 1 HD" group-title="Информационные"  tvg-logo="https://icon.admuspeh.my/icon/%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%201%20+0%20(%D0%91%D0%B5%D0%BB%D0%B3%D0%BE%D1%80%D0%BE%D0%B4).png" catchup="default" catchup-days="7" catchup-source="http://cdn.admuspeh.my/8152/video-${start}-${duration}.m3u8?token=8oj9xSWQPUsf6YxF" timeshift="7", Россия 1 HD
 http://cdn.admuspeh.my/8152/video.m3u8?token=8oj9xSWQPUsf6YxF
 #EXTINF:-1 tvg-id="Россия Культура" group-title="Познавательные"  tvg-logo="https://icon.admuspeh.my/icon/%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%20%D0%9A%20+0%20(%D0%9D%D0%B5%D0%B2%D0%B8%D0%BD%D0%BD%D0%BE%D0%BC%D1%8B%D1%81%D1%81%D0%BA).png" catchup="default" catchup-days="14" catchup-source="http://cdn.admuspeh.my/8072/video-${start}-${duration}.m3u8?token=8oj9xSWQPUsf6YxF" timeshift="14", Россия Культура
@@ -2328,6 +2330,7 @@ http://hls-shansontv.cdnvideo.ru/shansontv/shansontv.sdp/playlist.m3u8
 #EXTINF:-1  group-title="Радио"  tvg-id="ShansonTV.ru (4)"  tvg-logo="https://i.imgur.com/NBWyJJQ.png"   tvg-name="Шансон ТВ",Шансон ТВ [720x404@25]
 http://hls.shansontv.cdnvideo.ru/shansontv/shansontv.sdp/playlist.m3u8
 #EXT-X-ENDLIST
+
 
 
 
