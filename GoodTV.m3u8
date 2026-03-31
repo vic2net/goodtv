@@ -116,6 +116,12 @@ http://live.biluspeh.com/8742/video.m3u8?token=8oj9xSWQPUsf6YxF
 #EXTINF:-1  tvg-id="MiniMax Newfilm 3"  tvg-logo="https://icon.biluspeh.com/icon/MM%20NewFilm%203%20HD.png"   catchup="flussonic" catchup-days="1", MiniMax Newfilm 3
 #EXTGRP:⭐ Избранное
 http://live.biluspeh.com/8743/video.m3u8?token=8oj9xSWQPUsf6YxF
+#EXTINF:-1  tvg-id="MiniMax Flip UHD"  tvg-logo="https://icon.biluspeh.com/icon/MM%20Flip%20UHD.png"   catchup="flussonic" catchup-days="1", MiniMax Flip UHD
+#EXTGRP:⭐ Избранное
+http://live.biluspeh.com/8404/video.m3u8?token=8oj9xSWQPUsf6YxF
+#EXTINF:-1  tvg-id="BCU Ultra 4K"  tvg-logo="https://icon.biluspeh.com/icon/BCU%20Ultra%204K.png" , BCU Ultra 4K
+#EXTGRP:⭐ Избранное
+http://live.biluspeh.com/8887/video.m3u8?token=8oj9xSWQPUsf6YxF
 #EXTINF:-1  tvg-id="MiniMax Семейный 1 HD"  tvg-logo="https://icon.biluspeh.com/icon/MM%20%D0%A1%D0%B5%D0%BC%D0%B5%D0%B9%D0%BD%D1%8B%D0%B9%201%20HD.png"   catchup="flussonic" catchup-days="1", MiniMax Семейный 1 HD
 #EXTGRP:⭐ Избранное
 http://live.biluspeh.com/8442/video.m3u8?token=8oj9xSWQPUsf6YxF
@@ -125,6 +131,12 @@ http://live.biluspeh.com/8449/video.m3u8?token=8oj9xSWQPUsf6YxF
 #EXTINF:-1  tvg-id="Kernel TV Алиса HD"  tvg-logo="https://icon.biluspeh.com/icon/kernel_alice.png"   catchup="flussonic" catchup-days="3", Kernel TV Алиса HD
 #EXTGRP:⭐ Избранное
 http://live.biluspeh.com/9031/video.m3u8?token=8oj9xSWQPUsf6YxF
+#EXTINF:-1  tvg-id="BCU Kids 4K"  tvg-logo="https://icon.biluspeh.com/icon/BCU%20Kids%204K.png"   catchup="flussonic" catchup-days="1", BCU Kids 4K
+#EXTGRP:⭐ Избранное
+http://live.biluspeh.com/8976/video.m3u8?token=8oj9xSWQPUsf6YxF
+#EXTINF:-1  tvg-id="BOX СССР 4K HDR"  tvg-logo="https://icon.biluspeh.com/icon/BOX%20%D0%A1%D0%A1%D0%A1%D0%A0%204K%20HDR.png"   catchup="flussonic" catchup-days="1", BOX СССР 4K HDR
+#EXTGRP:⭐ Избранное
+http://live.biluspeh.com/8445/video.m3u8?token=8oj9xSWQPUsf6YxF
 #EXTINF:-1  tvg-id="Киносемья"  tvg-logo="https://icon.biluspeh.com/icon/%D0%9A%D0%B8%D0%BD%D0%BE%D1%81%D0%B5%D0%BC%D1%8C%D1%8F%20HD%20orig.png"   catchup="flussonic" catchup-days="7", Киносемья
 #EXTGRP:⭐ Избранное
 http://live.biluspeh.com/8047/video.m3u8?token=8oj9xSWQPUsf6YxF
@@ -290,6 +302,33 @@ http://live.biluspeh.com/9080/video.m3u8?token=8oj9xSWQPUsf6YxF
 #EXTINF:-1  tvg-id="ТВОЁ ТВ ЮМОР HD"  tvg-logo="https://icon.biluspeh.com/icon/%D0%A2%D0%92%D0%9E%D0%81%20%D0%A2%D0%92%20%D0%AE%D0%9C%D0%9E%D0%A0%20HD.png" , ТВОЁ ТВ ЮМОР HD
 #EXTGRP:⭐ Избранное
 http://live.biluspeh.com/9246/video.m3u8?token=8oj9xSWQPUsf6YxF
+#EXTINF:-1  tvg-id="BOX Kosmo 4K"  tvg-logo="https://icon.biluspeh.com/icon/BOX%20Kosmo%204K.png"   catchup="flussonic" catchup-days="1", BOX Kosmo 4K
+#EXTGRP:⭐ Избранное
+http://live.biluspeh.com/8448/video.m3u8?token=8oj9xSWQPUsf6YxF
+#EXTINF:-1  tvg-id="BCU Cosmo HDR"  tvg-logo="https://icon.biluspeh.com/icon/BCU%20Cosmo%20HD.png"   catchup="flussonic" catchup-days="1", BCU Cosmo HDR
+#EXTGRP:⭐ Избранное
+http://live.biluspeh.com/8975/video.m3u8?token=8oj9xSWQPUsf6YxF
+#EXTINF:-1  tvg-id="BCU Action HDR"  tvg-logo="https://icon.biluspeh.com/icon/BCU%20Action%20HD.png"   catchup="flussonic" catchup-days="1", BCU Action HDR
+#EXTGRP:⭐ Избранное
+http://live.biluspeh.com/8876/video.m3u8?token=8oj9xSWQPUsf6YxF
+#EXTINF:-1  tvg-id="Инсайт UHD"  tvg-logo="https://icon.biluspeh.com/icon/Insight%20UHD%204K.png" , Инсайт UHD
+#EXTGRP:⭐ Избранное
+http://live.biluspeh.com/8683/video.m3u8?token=8oj9xSWQPUsf6YxF
+#EXTINF:-1  tvg-id="Ultra REX 4k"  tvg-logo="https://icon.biluspeh.com/icon/Russian%20Extreme%20Ultra.png" , Ultra REX 4k
+#EXTGRP:⭐ Избранное
+http://live.biluspeh.com/8907/video.m3u8?token=8oj9xSWQPUsf6YxF
+#EXTINF:-1  tvg-id="Ultra Cinema 4k"  tvg-logo="https://icon.biluspeh.com/icon/Ultra%20HD%20Cinema%204K.png" , Ultra Cinema 4k
+#EXTGRP:⭐ Избранное
+http://live.biluspeh.com/8906/video.m3u8?token=8oj9xSWQPUsf6YxF
+#EXTINF:-1  tvg-id="CineMan OLD 4K"  tvg-logo="https://icon.biluspeh.com/icon/cineman-old4k.png"   catchup="flussonic" catchup-days="1", CineMan OLD 4K
+#EXTGRP:⭐ Избранное
+http://live.biluspeh.com/8804/video.m3u8?token=8oj9xSWQPUsf6YxF
+#EXTINF:-1  tvg-id="CineMan CCCP 4K"  tvg-logo="https://icon.biluspeh.com/icon/cineman-sssr4k.png"   catchup="flussonic" catchup-days="1", CineMan CCCP 4K
+#EXTGRP:⭐ Избранное
+http://live.biluspeh.com/8795/video.m3u8?token=8oj9xSWQPUsf6YxF
+#EXTINF:-1  tvg-id="BOX Remast Plus 4K"  tvg-logo="https://icon.biluspeh.com/icon/BOX%20Remast%20Plus%204K.png"   catchup="flussonic" catchup-days="1", BOX Remast Plus 4K
+#EXTGRP:⭐ Избранное
+http://live.biluspeh.com/8443/video.m3u8?token=8oj9xSWQPUsf6YxF
 #EXTINF:-1  tvg-id="СТС"  tvg-logo="https://icon.biluspeh.com/icon/%D0%A1%D0%A2%D0%A1%20+0%20(%D0%9D%D0%B5%D0%B2%D0%B8%D0%BD%D0%BD%D0%BE%D0%BC%D1%8B%D1%81%D1%81%D0%BA).png"   catchup="flussonic" catchup-days="14", СТС
 #EXTGRP:⭐ Избранное
 http://live.biluspeh.com/8005/video.m3u8?token=8oj9xSWQPUsf6YxF
@@ -314,6 +353,9 @@ http://live.biluspeh.com/8317/video.m3u8?token=8oj9xSWQPUsf6YxF
 #EXTINF:-1  tvg-id="Красная линия"  tvg-logo="https://icon.biluspeh.com/icon/%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D0%B0%D1%8F%20%D0%BB%D0%B8%D0%BD%D0%B8%D1%8F%20orig.png"   catchup="flussonic" catchup-days="7", Красная линия
 #EXTGRP:⭐ Избранное
 http://live.biluspeh.com/8390/video.m3u8?token=8oj9xSWQPUsf6YxF
+#EXTINF:-1  tvg-id="MS CRIME HD"  tvg-logo="https://icon.biluspeh.com/icon/MS%20CRIME%20HD.png"   catchup="flussonic" catchup-days="3", MS CRIME HD
+#EXTGRP:⭐ Избранное
+http://live.biluspeh.com/8637/video.m3u8?token=8oj9xSWQPUsf6YxF
 #EXTINF:-1  tvg-id="Победа"  tvg-logo="https://icon.biluspeh.com/icon/%D0%9F%D0%BE%D0%B1%D0%B5%D0%B4%D0%B0%20HD.png"   catchup="flussonic" catchup-days="14", Победа
 #EXTGRP:⭐ Избранное
 http://live.biluspeh.com/8391/video.m3u8?token=8oj9xSWQPUsf6YxF
@@ -344,18 +386,135 @@ http://live.biluspeh.com/8026/video.m3u8?token=8oj9xSWQPUsf6YxF
 #EXTINF:-1  tvg-id="Kernel TV Комедия HD"  tvg-logo="https://icon.biluspeh.com/icon/kernel_comedy.png"   catchup="flussonic" catchup-days="3", Kernel TV Комедия HD
 #EXTGRP:⭐ Избранное
 http://live.biluspeh.com/9063/video.m3u8?token=8oj9xSWQPUsf6YxF
-#EXTINF:-1  tvg-id="MS CRIME HD"  tvg-logo="https://icon.biluspeh.com/icon/MS%20CRIME%20HD.png"   catchup="flussonic" catchup-days="3", MS CRIME HD
+#EXTINF:-1  tvg-id="Кино UHD"  tvg-logo="https://icon.biluspeh.com/icon/%D0%9A%D0%B8%D0%BD%D0%BE%20UHD%204K.png" , Кино UHD
 #EXTGRP:⭐ Избранное
-http://live.biluspeh.com/8637/video.m3u8?token=8oj9xSWQPUsf6YxF
-#EXTINF:-1  tvg-id="MiniMax Tom and Jerry HD"  tvg-logo="https://icon.biluspeh.com/icon/MM%20Tom%20and%20Jerry%20HD.png"   catchup="flussonic" catchup-days="1", MiniMax Tom and Jerry HD
-#EXTGRP:⭐ Избранное
-http://live.biluspeh.com/8997/video.m3u8?token=8oj9xSWQPUsf6YxF
-#EXTINF:-1  tvg-id="CineMan Cartoons Short FHD"  tvg-logo="https://icon.biluspeh.com/icon/Cartoons%20Short.png"   catchup="flussonic" catchup-days="1", CineMan Cartoons Short FHD
-#EXTGRP:⭐ Избранное
-http://live.biluspeh.com/8867/video.m3u8?token=8oj9xSWQPUsf6YxF
+http://live.biluspeh.com/8684/video.m3u8?token=8oj9xSWQPUsf6YxF
 #EXTINF:-1  tvg-id="MiniMax USSR Мультфильм HD"  tvg-logo="https://icon.biluspeh.com/icon/MM%20USSR%20%D0%9C%D1%83%D0%BB%D1%8C%D1%82%D1%84%D0%B8%D0%BB%D1%8C%D0%BC%20HD.png"   catchup="flussonic" catchup-days="1", MiniMax USSR Мультфильм HD
 #EXTGRP:⭐ Избранное
 http://live.biluspeh.com/8913/video.m3u8?token=8oj9xSWQPUsf6YxF
+#EXTINF:-1  tvg-id="CineMan Cartoons Short FHD"  tvg-logo="https://icon.biluspeh.com/icon/Cartoons%20Short.png"   catchup="flussonic" catchup-days="1", CineMan Cartoons Short FHD
+#EXTGRP:⭐ Избранное
+http://live.biluspeh.com/8867/video.m3u8?token=8oj9xSWQPUsf6YxF
+#EXTINF:-1  tvg-id="MiniMax Tom and Jerry HD"  tvg-logo="https://icon.biluspeh.com/icon/MM%20Tom%20and%20Jerry%20HD.png"   catchup="flussonic" catchup-days="1", MiniMax Tom and Jerry HD
+#EXTGRP:⭐ Избранное
+http://live.biluspeh.com/8997/video.m3u8?token=8oj9xSWQPUsf6YxF
+#EXTINF:-1  tvg-id="BCU Кинозал Premiere 2 HDR"  tvg-logo="https://icon.biluspeh.com/icon/BCU%20%D0%9A%D0%B8%D0%BD%D0%BE%D0%B7%D0%B0%D0%BB%20Premiere%202%20HD.png"   catchup="flussonic" catchup-days="1", BCU Кинозал Premiere 2 HDR
+#EXTGRP:⭐ Избранное
+http://live.biluspeh.com/8872/video.m3u8?token=8oj9xSWQPUsf6YxF
+#EXTINF:-1  tvg-id="BCU Кинозал Premiere 1 HDR"  tvg-logo="https://icon.biluspeh.com/icon/BCU%20%D0%9A%D0%B8%D0%BD%D0%BE%D0%B7%D0%B0%D0%BB%20Premiere%201%20HD.png"   catchup="flussonic" catchup-days="1", BCU Кинозал Premiere 1 HDR
+#EXTGRP:⭐ Избранное
+http://live.biluspeh.com/8870/video.m3u8?token=8oj9xSWQPUsf6YxF
+#EXTINF:-1  tvg-id="BCU Кинозал Premiere 3 HDR"  tvg-logo="https://icon.biluspeh.com/icon/BCU%20%D0%9A%D0%B8%D0%BD%D0%BE%D0%B7%D0%B0%D0%BB%20Premiere%203%20HD.png"   catchup="flussonic" catchup-days="1", BCU Кинозал Premiere 3 HDR
+#EXTGRP:⭐ Избранное
+http://live.biluspeh.com/8873/video.m3u8?token=8oj9xSWQPUsf6YxF
+#EXTINF:-1  tvg-id="Kernel TV Космос HD"  tvg-logo="https://icon.biluspeh.com/icon/kernel_kosmoc.png"   catchup="flussonic" catchup-days="3", Kernel TV Космос HD
+#EXTGRP:⭐ Избранное
+http://live.biluspeh.com/9064/video.m3u8?token=8oj9xSWQPUsf6YxF
+#EXTINF:-1  tvg-id="Кинохит"  tvg-logo="https://icon.biluspeh.com/icon/%D0%9A%D0%B8%D0%BD%D0%BE%D1%85%D0%B8%D1%82%20HD.png"   catchup="flussonic" catchup-days="7", Кинохит
+#EXTGRP:⭐ Избранное
+http://live.biluspeh.com/8039/video.m3u8?token=8oj9xSWQPUsf6YxF
+#EXTINF:-1  tvg-id="Кинопремьера"  tvg-logo="https://icon.biluspeh.com/icon/%D0%9A%D0%B8%D0%BD%D0%BE%D0%BF%D1%80%D0%B5%D0%BC%D1%8C%D0%B5%D1%80%D0%B0%20HD%20orig.png"   catchup="flussonic" catchup-days="7", Кинопремьера
+#EXTGRP:⭐ Избранное
+http://live.biluspeh.com/8199/video.m3u8?token=8oj9xSWQPUsf6YxF
+#EXTINF:-1  tvg-id="Еврокино"  tvg-logo="https://icon.biluspeh.com/icon/%D0%95%D0%B2%D1%80%D0%BE%D0%BA%D0%B8%D0%BD%D0%BE%20HD%20orig.png"   catchup="flussonic" catchup-days="7", Еврокино
+#EXTGRP:⭐ Избранное
+http://live.biluspeh.com/8034/video.m3u8?token=8oj9xSWQPUsf6YxF
+#EXTINF:-1  tvg-id="FlixSnip"  tvg-logo="https://icon.biluspeh.com/icon/FlixSnip%20HD.png" , FlixSnip
+#EXTGRP:⭐ Избранное
+http://live.biluspeh.com/8928/video.m3u8?token=8oj9xSWQPUsf6YxF
+#EXTINF:-1  tvg-id="Cinema HD"  tvg-logo="https://icon.biluspeh.com/icon/Cinema%20HD.png" , Cinema HD
+#EXTGRP:⭐ Избранное
+http://live.biluspeh.com/8949/video.m3u8?token=8oj9xSWQPUsf6YxF
+#EXTINF:-1  tvg-id="CineMan FHD"  tvg-logo="https://icon.biluspeh.com/icon/cineman.png"   catchup="flussonic" catchup-days="1", CineMan FHD
+#EXTGRP:⭐ Избранное
+http://live.biluspeh.com/8952/video.m3u8?token=8oj9xSWQPUsf6YxF
+#EXTINF:-1  tvg-id="Hollywood HD"  tvg-logo="https://icon.biluspeh.com/icon/Hollywood%20HD%20orig.png"   catchup="flussonic" catchup-days="7", Hollywood HD
+#EXTGRP:⭐ Избранное
+http://live.biluspeh.com/8651/video.m3u8?token=8oj9xSWQPUsf6YxF
+#EXTINF:-1  tvg-id="TV XXI"  tvg-logo="https://icon.biluspeh.com/icon/TV%20XXI%20orig.png" , TV XXI
+#EXTGRP:⭐ Избранное
+http://live.biluspeh.com/8213/video.m3u8?token=8oj9xSWQPUsf6YxF
+#EXTINF:-1  tvg-id="MiniMax UFO HD"  tvg-logo="https://icon.biluspeh.com/icon/MM%20UFO%20HD.png"   catchup="flussonic" catchup-days="1", MiniMax UFO HD
+#EXTGRP:⭐ Избранное
+http://live.biluspeh.com/8410/video.m3u8?token=8oj9xSWQPUsf6YxF
+#EXTINF:-1  tvg-id="MiniMax Боевик Classic HD"  tvg-logo="https://icon.biluspeh.com/icon/MM%20%D0%91%D0%BE%D0%B5%D0%B2%D0%B8%D0%BA%20Classic%20HD.png"   catchup="flussonic" catchup-days="1", MiniMax Боевик Classic HD
+#EXTGRP:⭐ Избранное
+http://live.biluspeh.com/8411/video.m3u8?token=8oj9xSWQPUsf6YxF
+#EXTINF:-1  tvg-id="GoldLine Brief"  tvg-logo="https://icon.biluspeh.com/icon/GL_Brief.png"   catchup="flussonic" catchup-days="3", GoldLine Brief
+#EXTGRP:⭐ Избранное
+http://live.biluspeh.com/8568/video.m3u8?token=8oj9xSWQPUsf6YxF
+#EXTINF:-1  tvg-id="BCU Premiere HDR"  tvg-logo="https://icon.biluspeh.com/icon/BCU%20Premiere%20HD.png"   catchup="flussonic" catchup-days="1", BCU Premiere HDR
+#EXTGRP:⭐ Избранное
+http://live.biluspeh.com/8883/video.m3u8?token=8oj9xSWQPUsf6YxF
+#EXTINF:-1  tvg-id="BCU Action HD"  tvg-logo="https://icon.biluspeh.com/icon/BCU%20Action%20HD.png"   catchup="flussonic" catchup-days="1", BCU Action HD
+#EXTGRP:⭐ Избранное
+http://live.biluspeh.com/8481/video.m3u8?token=8oj9xSWQPUsf6YxF
+#EXTINF:-1  tvg-id="BCU Marvel HDR"  tvg-logo="https://icon.biluspeh.com/icon/BCU%20Marvel%20HD.png"   catchup="flussonic" catchup-days="1", BCU Marvel HDR
+#EXTGRP:⭐ Избранное
+http://live.biluspeh.com/8882/video.m3u8?token=8oj9xSWQPUsf6YxF
+#EXTINF:-1  tvg-id="BCU Comedy HD"  tvg-logo="https://icon.biluspeh.com/icon/BCU%20Comedy%20HD.png"   catchup="flussonic" catchup-days="1", BCU Comedy HD
+#EXTGRP:⭐ Избранное
+http://live.biluspeh.com/8477/video.m3u8?token=8oj9xSWQPUsf6YxF
+#EXTINF:-1  tvg-id="BCU Fantastic HDR"  tvg-logo="https://icon.biluspeh.com/icon/BCU%20Fantastic%20HD.png"   catchup="flussonic" catchup-days="1", BCU Fantastic HDR
+#EXTGRP:⭐ Избранное
+http://live.biluspeh.com/8879/video.m3u8?token=8oj9xSWQPUsf6YxF
+#EXTINF:-1  tvg-id="BCU Cinema+ HD"  tvg-logo="https://icon.biluspeh.com/icon/BCU%20Cinema+%20HD.png"   catchup="flussonic" catchup-days="1", BCU Cinema+ HD
+#EXTGRP:⭐ Избранное
+http://live.biluspeh.com/8892/video.m3u8?token=8oj9xSWQPUsf6YxF
+#EXTINF:-1  tvg-id="BCU Cinema HD"  tvg-logo="https://icon.biluspeh.com/icon/BCU%20Cinema%20HD.png"   catchup="flussonic" catchup-days="1", BCU Cinema HD
+#EXTGRP:⭐ Избранное
+http://live.biluspeh.com/8891/video.m3u8?token=8oj9xSWQPUsf6YxF
+#EXTINF:-1  tvg-id="BCU Kinorating HD"  tvg-logo="https://icon.biluspeh.com/icon/BCU%20Kinorating%20HD.png"   catchup="flussonic" catchup-days="1", BCU Kinorating HD
+#EXTGRP:⭐ Избранное
+http://live.biluspeh.com/8455/video.m3u8?token=8oj9xSWQPUsf6YxF
+#EXTINF:-1  tvg-id="BCU Catastrophe HD"  tvg-logo="https://icon.biluspeh.com/icon/BCU%20Catastrophe%20HD.png"   catchup="flussonic" catchup-days="1", BCU Catastrophe HD
+#EXTGRP:⭐ Избранное
+http://live.biluspeh.com/8877/video.m3u8?token=8oj9xSWQPUsf6YxF
+#EXTINF:-1  tvg-id="BCU History HD"  tvg-logo="https://icon.biluspeh.com/icon/BCU%20History%20HD.png"   catchup="flussonic" catchup-days="1", BCU History HD
+#EXTGRP:⭐ Избранное
+http://live.biluspeh.com/8881/video.m3u8?token=8oj9xSWQPUsf6YxF
+#EXTINF:-1  tvg-id="BCU Criminal HD"  tvg-logo="https://icon.biluspeh.com/icon/BCU%20Criminal%20HD.png"   catchup="flussonic" catchup-days="1", BCU Criminal HD
+#EXTGRP:⭐ Избранное
+http://live.biluspeh.com/8890/video.m3u8?token=8oj9xSWQPUsf6YxF
+#EXTINF:-1  tvg-id="BCU Stars HD"  tvg-logo="https://icon.biluspeh.com/icon/BCU%20Stars%20HD.png"   catchup="flussonic" catchup-days="1", BCU Stars HD
+#EXTGRP:⭐ Избранное
+http://live.biluspeh.com/8885/video.m3u8?token=8oj9xSWQPUsf6YxF
+#EXTINF:-1  tvg-id="BCU TruMotion HD"  tvg-logo="https://icon.biluspeh.com/icon/BCU%20TruMotion%20HD.png"   catchup="flussonic" catchup-days="1", BCU TruMotion HD
+#EXTGRP:⭐ Избранное
+http://live.biluspeh.com/8977/video.m3u8?token=8oj9xSWQPUsf6YxF
+#EXTINF:-1  tvg-id="BCU Survival HD"  tvg-logo="https://icon.biluspeh.com/icon/BCU%20Survival%20HD.png"   catchup="flussonic" catchup-days="1", BCU Survival HD
+#EXTGRP:⭐ Избранное
+http://live.biluspeh.com/8912/video.m3u8?token=8oj9xSWQPUsf6YxF
+#EXTINF:-1  tvg-id="BOX Gangster HD"  tvg-logo="https://icon.biluspeh.com/icon/BOX%20Gangster%20HD.png"   catchup="flussonic" catchup-days="1", BOX Gangster HD
+#EXTGRP:⭐ Избранное
+http://live.biluspeh.com/8985/video.m3u8?token=8oj9xSWQPUsf6YxF
+#EXTINF:-1  tvg-id="BOX Western HD"  tvg-logo="https://icon.biluspeh.com/icon/BOX%20Western%20HD.png"   catchup="flussonic" catchup-days="1", BOX Western HD
+#EXTGRP:⭐ Избранное
+http://live.biluspeh.com/8417/video.m3u8?token=8oj9xSWQPUsf6YxF
+#EXTINF:-1  tvg-id="CineMan РуКино FHD"  tvg-logo="https://icon.biluspeh.com/icon/cineman-rukino.png"   catchup="flussonic" catchup-days="1", CineMan РуКино FHD
+#EXTGRP:⭐ Избранное
+http://live.biluspeh.com/8871/video.m3u8?token=8oj9xSWQPUsf6YxF
+#EXTINF:-1  tvg-id="CineMan Расследование авиакатастроф FHD"  tvg-logo="https://icon.biluspeh.com/icon/cineman-aircrash.png"   catchup="flussonic" catchup-days="1", CineMan Расследование авиакатастроф FHD
+#EXTGRP:⭐ Избранное
+http://live.biluspeh.com/8826/video.m3u8?token=8oj9xSWQPUsf6YxF
+#EXTINF:-1  tvg-id="CineMan Военные Сериалы"  tvg-logo="https://icon.biluspeh.com/icon/cineman-vovserials.png"   catchup="flussonic" catchup-days="1", CineMan Военные Сериалы
+#EXTGRP:⭐ Избранное
+http://live.biluspeh.com/8574/video.m3u8?token=8oj9xSWQPUsf6YxF
+#EXTINF:-1  tvg-id="MiniMax Криминал HD"  tvg-logo="https://icon.biluspeh.com/icon/MM%20%D0%9A%D1%80%D0%B8%D0%BC%D0%B8%D0%BD%D0%B0%D0%BB%20HD.png"   catchup="flussonic" catchup-days="3", MiniMax Криминал HD
+#EXTGRP:⭐ Избранное
+http://live.biluspeh.com/8624/video.m3u8?token=8oj9xSWQPUsf6YxF
+#EXTINF:-1  tvg-id="MiniMax Роскино"  tvg-logo="https://icon.biluspeh.com/icon/MM%20%D0%A0%D0%BE%D1%81%D0%BA%D0%B8%D0%BD%D0%BE%20HD.png"   catchup="flussonic" catchup-days="1", MiniMax Роскино
+#EXTGRP:⭐ Избранное
+http://live.biluspeh.com/8709/video.m3u8?token=8oj9xSWQPUsf6YxF
+#EXTINF:-1  tvg-id="MiniMax OldSchool HD"  tvg-logo="https://icon.biluspeh.com/icon/MM%20OldSchool%20HD.png"   catchup="flussonic" catchup-days="3", MiniMax OldSchool HD
+#EXTGRP:⭐ Избранное
+http://live.biluspeh.com/8644/video.m3u8?token=8oj9xSWQPUsf6YxF
+#EXTINF:-1  tvg-id="MiniMax Агата Кристи HD"  tvg-logo="https://icon.biluspeh.com/icon/MM%20%D0%90%D0%B3%D0%B0%D1%82%D0%B0%20%D0%9A%D1%80%D0%B8%D1%81%D1%82%D0%B8%20HD.png"   catchup="flussonic" catchup-days="3", MiniMax Агата Кристи HD
+#EXTGRP:⭐ Избранное
+http://live.biluspeh.com/8618/video.m3u8?token=8oj9xSWQPUsf6YxF
+#EXTINF:-1  tvg-id="MiniMax История HD"  tvg-logo="https://icon.biluspeh.com/icon/MM%20%D0%98%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%8F%20HD.png"   catchup="flussonic" catchup-days="1", MiniMax История HD
+#EXTGRP:⭐ Избранное
+http://live.biluspeh.com/8933/video.m3u8?token=8oj9xSWQPUsf6YxF
 #EXTINF:-1  tvg-id="Дождь"  tvg-logo="https://icon.biluspeh.com/icon/%D0%94%D0%BE%D0%B6%D0%B4%D1%8C%20HD.png"   catchup="flussonic" catchup-days="14", Дождь
 #EXTGRP:News
 http://live.biluspeh.com/8113/video.m3u8?token=8oj9xSWQPUsf6YxF
@@ -371,60 +530,12 @@ http://live.biluspeh.com/8560/video.m3u8?token=8oj9xSWQPUsf6YxF
 #EXTINF:-1  tvg-id="Звезда Плюс"  tvg-logo="https://icon.biluspeh.com/icon/%D0%97%D0%B2%D0%B5%D0%B7%D0%B4%D0%B0%20%D0%9F%D0%BB%D1%8E%D1%81.png" , Звезда Плюс
 #EXTGRP:News
 http://live.biluspeh.com/8403/video.m3u8?token=8oj9xSWQPUsf6YxF
-#EXTINF:-1  tvg-id="MiniMax Flip UHD"  tvg-logo="https://icon.biluspeh.com/icon/MM%20Flip%20UHD.png"   catchup="flussonic" catchup-days="1", MiniMax Flip UHD
-#EXTGRP:4K
-http://live.biluspeh.com/8404/video.m3u8?token=8oj9xSWQPUsf6YxF
-#EXTINF:-1  tvg-id="CineMan CCCP 4K"  tvg-logo="https://icon.biluspeh.com/icon/cineman-sssr4k.png"   catchup="flussonic" catchup-days="1", CineMan CCCP 4K
-#EXTGRP:4K
-http://live.biluspeh.com/8795/video.m3u8?token=8oj9xSWQPUsf6YxF
-#EXTINF:-1  tvg-id="CineMan OLD 4K"  tvg-logo="https://icon.biluspeh.com/icon/cineman-old4k.png"   catchup="flussonic" catchup-days="1", CineMan OLD 4K
-#EXTGRP:4K
-http://live.biluspeh.com/8804/video.m3u8?token=8oj9xSWQPUsf6YxF
-#EXTINF:-1  tvg-id="Кино UHD"  tvg-logo="https://icon.biluspeh.com/icon/%D0%9A%D0%B8%D0%BD%D0%BE%20UHD%204K.png" , Кино UHD
-#EXTGRP:4K
-http://live.biluspeh.com/8684/video.m3u8?token=8oj9xSWQPUsf6YxF
 #EXTINF:-1  tvg-id="MS MAGIC 4K"  tvg-logo="https://icon.biluspeh.com/icon/MS%20MAGIC%20HD.png"   catchup="flussonic" catchup-days="3", MS MAGIC 4K
 #EXTGRP:4K
 http://live.biluspeh.com/8657/video.m3u8?token=8oj9xSWQPUsf6YxF
-#EXTINF:-1  tvg-id="Ultra Cinema 4k"  tvg-logo="https://icon.biluspeh.com/icon/Ultra%20HD%20Cinema%204K.png" , Ultra Cinema 4k
-#EXTGRP:4K
-http://live.biluspeh.com/8906/video.m3u8?token=8oj9xSWQPUsf6YxF
-#EXTINF:-1  tvg-id="Ultra REX 4k"  tvg-logo="https://icon.biluspeh.com/icon/Russian%20Extreme%20Ultra.png" , Ultra REX 4k
-#EXTGRP:4K
-http://live.biluspeh.com/8907/video.m3u8?token=8oj9xSWQPUsf6YxF
-#EXTINF:-1  tvg-id="BOX СССР 4K HDR"  tvg-logo="https://icon.biluspeh.com/icon/BOX%20%D0%A1%D0%A1%D0%A1%D0%A0%204K%20HDR.png"   catchup="flussonic" catchup-days="1", BOX СССР 4K HDR
-#EXTGRP:4K
-http://live.biluspeh.com/8445/video.m3u8?token=8oj9xSWQPUsf6YxF
-#EXTINF:-1  tvg-id="BCU Кинозал Premiere 1 HDR"  tvg-logo="https://icon.biluspeh.com/icon/BCU%20%D0%9A%D0%B8%D0%BD%D0%BE%D0%B7%D0%B0%D0%BB%20Premiere%201%20HD.png"   catchup="flussonic" catchup-days="1", BCU Кинозал Premiere 1 HDR
-#EXTGRP:4K
-http://live.biluspeh.com/8870/video.m3u8?token=8oj9xSWQPUsf6YxF
-#EXTINF:-1  tvg-id="BCU Кинозал Premiere 2 HDR"  tvg-logo="https://icon.biluspeh.com/icon/BCU%20%D0%9A%D0%B8%D0%BD%D0%BE%D0%B7%D0%B0%D0%BB%20Premiere%202%20HD.png"   catchup="flussonic" catchup-days="1", BCU Кинозал Premiere 2 HDR
-#EXTGRP:4K
-http://live.biluspeh.com/8872/video.m3u8?token=8oj9xSWQPUsf6YxF
-#EXTINF:-1  tvg-id="BCU Кинозал Premiere 3 HDR"  tvg-logo="https://icon.biluspeh.com/icon/BCU%20%D0%9A%D0%B8%D0%BD%D0%BE%D0%B7%D0%B0%D0%BB%20Premiere%203%20HD.png"   catchup="flussonic" catchup-days="1", BCU Кинозал Premiere 3 HDR
-#EXTGRP:4K
-http://live.biluspeh.com/8873/video.m3u8?token=8oj9xSWQPUsf6YxF
-#EXTINF:-1  tvg-id="Инсайт UHD"  tvg-logo="https://icon.biluspeh.com/icon/Insight%20UHD%204K.png" , Инсайт UHD
-#EXTGRP:4K
-http://live.biluspeh.com/8683/video.m3u8?token=8oj9xSWQPUsf6YxF
-#EXTINF:-1  tvg-id="BCU Action HDR"  tvg-logo="https://icon.biluspeh.com/icon/BCU%20Action%20HD.png"   catchup="flussonic" catchup-days="1", BCU Action HDR
-#EXTGRP:4K
-http://live.biluspeh.com/8876/video.m3u8?token=8oj9xSWQPUsf6YxF
-#EXTINF:-1  tvg-id="BCU Cosmo HDR"  tvg-logo="https://icon.biluspeh.com/icon/BCU%20Cosmo%20HD.png"   catchup="flussonic" catchup-days="1", BCU Cosmo HDR
-#EXTGRP:4K
-http://live.biluspeh.com/8975/video.m3u8?token=8oj9xSWQPUsf6YxF
-#EXTINF:-1  tvg-id="BCU Ultra 4K"  tvg-logo="https://icon.biluspeh.com/icon/BCU%20Ultra%204K.png" , BCU Ultra 4K
-#EXTGRP:4K
-http://live.biluspeh.com/8887/video.m3u8?token=8oj9xSWQPUsf6YxF
 #EXTINF:-1  tvg-id="BCU Premiere Ultra 4K"  tvg-logo="https://icon.biluspeh.com/icon/BCU%20Premiere%20Ultra%204K.png"   catchup="flussonic" catchup-days="1", BCU Premiere Ultra 4K
 #EXTGRP:4K
 http://live.biluspeh.com/8911/video.m3u8?token=8oj9xSWQPUsf6YxF
-#EXTINF:-1  tvg-id="BCU Kids 4K"  tvg-logo="https://icon.biluspeh.com/icon/BCU%20Kids%204K.png"   catchup="flussonic" catchup-days="1", BCU Kids 4K
-#EXTGRP:4K
-http://live.biluspeh.com/8976/video.m3u8?token=8oj9xSWQPUsf6YxF
-#EXTINF:-1  tvg-id="BOX Kosmo 4K"  tvg-logo="https://icon.biluspeh.com/icon/BOX%20Kosmo%204K.png"   catchup="flussonic" catchup-days="1", BOX Kosmo 4K
-#EXTGRP:4K
-http://live.biluspeh.com/8448/video.m3u8?token=8oj9xSWQPUsf6YxF
 #EXTINF:-1  tvg-id="BOX Premiere 4K"  tvg-logo="https://icon.biluspeh.com/icon/BOX%20Premiere%204K.png"   catchup="flussonic" catchup-days="1", BOX Premiere 4K
 #EXTGRP:4K
 http://live.biluspeh.com/8431/video.m3u8?token=8oj9xSWQPUsf6YxF
@@ -434,9 +545,6 @@ http://live.biluspeh.com/8444/video.m3u8?token=8oj9xSWQPUsf6YxF
 #EXTINF:-1  tvg-id="BOX Remast 4K"  tvg-logo="https://icon.biluspeh.com/icon/BOX%20Remast%204K.png"   catchup="flussonic" catchup-days="1", BOX Remast 4K
 #EXTGRP:4K
 http://live.biluspeh.com/8433/video.m3u8?token=8oj9xSWQPUsf6YxF
-#EXTINF:-1  tvg-id="BOX Remast Plus 4K"  tvg-logo="https://icon.biluspeh.com/icon/BOX%20Remast%20Plus%204K.png"   catchup="flussonic" catchup-days="1", BOX Remast Plus 4K
-#EXTGRP:4K
-http://live.biluspeh.com/8443/video.m3u8?token=8oj9xSWQPUsf6YxF
 #EXTINF:-1  tvg-id="BOX Russian 4K"  tvg-logo="https://icon.biluspeh.com/icon/BOX%20Russian%204K.png"   catchup="flussonic" catchup-days="1", BOX Russian 4K
 #EXTGRP:4K
 http://live.biluspeh.com/8453/video.m3u8?token=8oj9xSWQPUsf6YxF
@@ -512,9 +620,6 @@ http://live.biluspeh.com/8010/video.m3u8?token=8oj9xSWQPUsf6YxF
 #EXTINF:-1  tvg-id="Патриот"  tvg-logo="https://icon.biluspeh.com/icon/%D0%9F%D0%B0%D1%82%D1%80%D0%B8%D0%BE%D1%82.png"   catchup="flussonic" catchup-days="3", Патриот
 #EXTGRP:Киноканалы
 http://live.biluspeh.com/8285/video.m3u8?token=8oj9xSWQPUsf6YxF
-#EXTINF:-1  tvg-id="Кинохит"  tvg-logo="https://icon.biluspeh.com/icon/%D0%9A%D0%B8%D0%BD%D0%BE%D1%85%D0%B8%D1%82%20HD.png"   catchup="flussonic" catchup-days="7", Кинохит
-#EXTGRP:Киноканалы
-http://live.biluspeh.com/8039/video.m3u8?token=8oj9xSWQPUsf6YxF
 #EXTINF:-1  tvg-id="Киномикс"  tvg-logo="https://icon.biluspeh.com/icon/%D0%9A%D0%B8%D0%BD%D0%BE%D0%BC%D0%B8%D0%BA%D1%81%20HD.png"   catchup="flussonic" catchup-days="7", Киномикс
 #EXTGRP:Киноканалы
 http://live.biluspeh.com/8040/video.m3u8?token=8oj9xSWQPUsf6YxF
@@ -524,12 +629,6 @@ http://live.biluspeh.com/8041/video.m3u8?token=8oj9xSWQPUsf6YxF
 #EXTINF:-1  tvg-id="Наше Новое Кино"  tvg-logo="https://icon.biluspeh.com/icon/%D0%9D%D0%B0%D1%88%D0%B5%20%D0%9D%D0%BE%D0%B2%D0%BE%D0%B5%20%D0%9A%D0%B8%D0%BD%D0%BE%20HD.png"   catchup="flussonic" catchup-days="7", Наше Новое Кино
 #EXTGRP:Киноканалы
 http://live.biluspeh.com/8044/video.m3u8?token=8oj9xSWQPUsf6YxF
-#EXTINF:-1  tvg-id="Кинопремьера"  tvg-logo="https://icon.biluspeh.com/icon/%D0%9A%D0%B8%D0%BD%D0%BE%D0%BF%D1%80%D0%B5%D0%BC%D1%8C%D0%B5%D1%80%D0%B0%20HD%20orig.png"   catchup="flussonic" catchup-days="7", Кинопремьера
-#EXTGRP:Киноканалы
-http://live.biluspeh.com/8199/video.m3u8?token=8oj9xSWQPUsf6YxF
-#EXTINF:-1  tvg-id="Еврокино"  tvg-logo="https://icon.biluspeh.com/icon/%D0%95%D0%B2%D1%80%D0%BE%D0%BA%D0%B8%D0%BD%D0%BE%20HD%20orig.png"   catchup="flussonic" catchup-days="7", Еврокино
-#EXTGRP:Киноканалы
-http://live.biluspeh.com/8034/video.m3u8?token=8oj9xSWQPUsf6YxF
 #EXTINF:-1  tvg-id="Иллюзион+"  tvg-logo="https://icon.biluspeh.com/icon/%D0%98%D0%BB%D0%BB%D1%8E%D0%B7%D0%B8%D0%BE%D0%BD+%20HD%20orig.png"   catchup="flussonic" catchup-days="7", Иллюзион+
 #EXTGRP:Киноканалы
 http://live.biluspeh.com/8134/video.m3u8?token=8oj9xSWQPUsf6YxF
@@ -584,9 +683,6 @@ http://live.biluspeh.com/8215/video.m3u8?token=8oj9xSWQPUsf6YxF
 #EXTINF:-1  tvg-id="Amedia Hit HD"  tvg-logo="https://icon.biluspeh.com/icon/Amedia%20Hit%20HD%20orig.png"   catchup="flussonic" catchup-days="7", Amedia Hit HD
 #EXTGRP:Киноканалы
 http://live.biluspeh.com/8159/video.m3u8?token=8oj9xSWQPUsf6YxF
-#EXTINF:-1  tvg-id="Hollywood HD"  tvg-logo="https://icon.biluspeh.com/icon/Hollywood%20HD%20orig.png"   catchup="flussonic" catchup-days="7", Hollywood HD
-#EXTGRP:Киноканалы
-http://live.biluspeh.com/8651/video.m3u8?token=8oj9xSWQPUsf6YxF
 #EXTINF:-1  tvg-id="Shot TV"  tvg-logo="https://icon.biluspeh.com/icon/SHOT%20TV.png"   catchup="flussonic" catchup-days="14", Shot TV
 #EXTGRP:Киноканалы
 http://live.biluspeh.com/8358/video.m3u8?token=8oj9xSWQPUsf6YxF
@@ -599,15 +695,9 @@ http://live.biluspeh.com/8935/video.m3u8?token=8oj9xSWQPUsf6YxF
 #EXTINF:-1  tvg-id="Star Family HD"  tvg-logo="https://icon.biluspeh.com/icon/Star%20Family%20HD%20LV.png" , Star Family HD
 #EXTGRP:Киноканалы
 http://live.biluspeh.com/8936/video.m3u8?token=8oj9xSWQPUsf6YxF
-#EXTINF:-1  tvg-id="TV XXI"  tvg-logo="https://icon.biluspeh.com/icon/TV%20XXI%20orig.png" , TV XXI
-#EXTGRP:Киноканалы
-http://live.biluspeh.com/8213/video.m3u8?token=8oj9xSWQPUsf6YxF
 #EXTINF:-1  tvg-id="Kinoliving"  tvg-logo="https://icon.biluspeh.com/icon/kinoliving.png"   catchup="flussonic" catchup-days="7", Kinoliving
 #EXTGRP:Киноканалы
 http://live.biluspeh.com/8148/video.m3u8?token=8oj9xSWQPUsf6YxF
-#EXTINF:-1  tvg-id="FlixSnip"  tvg-logo="https://icon.biluspeh.com/icon/FlixSnip%20HD.png" , FlixSnip
-#EXTGRP:Киноканалы
-http://live.biluspeh.com/8928/video.m3u8?token=8oj9xSWQPUsf6YxF
 #EXTINF:-1  tvg-id="Блокбастер HD"  tvg-logo="https://icon.biluspeh.com/icon/%D0%91%D0%BB%D0%BE%D0%BA%D0%B1%D0%B0%D1%81%D1%82%D0%B5%D1%80%20HD%20orig.png" , Блокбастер HD
 #EXTGRP:Киноканалы
 http://live.biluspeh.com/8939/video.m3u8?token=8oj9xSWQPUsf6YxF
@@ -620,12 +710,6 @@ http://live.biluspeh.com/8971/video.m3u8?token=8oj9xSWQPUsf6YxF
 #EXTINF:-1  tvg-id="Trash HD"  tvg-logo="https://icon.biluspeh.com/icon/Trash%20HD.png" , Trash HD
 #EXTGRP:Киноканалы
 http://live.biluspeh.com/8945/video.m3u8?token=8oj9xSWQPUsf6YxF
-#EXTINF:-1  tvg-id="Cinema HD"  tvg-logo="https://icon.biluspeh.com/icon/Cinema%20HD.png" , Cinema HD
-#EXTGRP:Киноканалы
-http://live.biluspeh.com/8949/video.m3u8?token=8oj9xSWQPUsf6YxF
-#EXTINF:-1  tvg-id="CineMan FHD"  tvg-logo="https://icon.biluspeh.com/icon/cineman.png"   catchup="flussonic" catchup-days="1", CineMan FHD
-#EXTGRP:Киноканалы
-http://live.biluspeh.com/8952/video.m3u8?token=8oj9xSWQPUsf6YxF
 #EXTINF:-1  tvg-id="CineMan MiniSeries FHD"  tvg-logo="https://icon.biluspeh.com/icon/cineman-miniseries.png"   catchup="flussonic" catchup-days="1", CineMan MiniSeries FHD
 #EXTGRP:Киноканалы
 http://live.biluspeh.com/8961/video.m3u8?token=8oj9xSWQPUsf6YxF
@@ -638,15 +722,6 @@ http://live.biluspeh.com/8955/video.m3u8?token=8oj9xSWQPUsf6YxF
 #EXTINF:-1  tvg-id="CineMan Криминальные Сериалы FHD"  tvg-logo="https://icon.biluspeh.com/icon/cineman-gluhar.png"   catchup="flussonic" catchup-days="1", CineMan Криминальные Сериалы FHD
 #EXTGRP:Киноканалы
 http://live.biluspeh.com/8772/video.m3u8?token=8oj9xSWQPUsf6YxF
-#EXTINF:-1  tvg-id="CineMan Военные Сериалы"  tvg-logo="https://icon.biluspeh.com/icon/cineman-vovserials.png"   catchup="flussonic" catchup-days="1", CineMan Военные Сериалы
-#EXTGRP:Киноканалы
-http://live.biluspeh.com/8574/video.m3u8?token=8oj9xSWQPUsf6YxF
-#EXTINF:-1  tvg-id="CineMan Расследование авиакатастроф FHD"  tvg-logo="https://icon.biluspeh.com/icon/cineman-aircrash.png"   catchup="flussonic" catchup-days="1", CineMan Расследование авиакатастроф FHD
-#EXTGRP:Киноканалы
-http://live.biluspeh.com/8826/video.m3u8?token=8oj9xSWQPUsf6YxF
-#EXTINF:-1  tvg-id="CineMan РуКино FHD"  tvg-logo="https://icon.biluspeh.com/icon/cineman-rukino.png"   catchup="flussonic" catchup-days="1", CineMan РуКино FHD
-#EXTGRP:Киноканалы
-http://live.biluspeh.com/8871/video.m3u8?token=8oj9xSWQPUsf6YxF
 #EXTINF:-1  tvg-id="CineMan Фитнес FHD"  tvg-logo="https://icon.biluspeh.com/icon/cineman-fitnes.png"   catchup="flussonic" catchup-days="1", CineMan Фитнес FHD
 #EXTGRP:Киноканалы
 http://live.biluspeh.com/8771/video.m3u8?token=8oj9xSWQPUsf6YxF
@@ -674,9 +749,6 @@ http://live.biluspeh.com/8634/video.m3u8?token=8oj9xSWQPUsf6YxF
 #EXTINF:-1  tvg-id="MiniMax Грайндхаус HD"  tvg-logo="https://icon.biluspeh.com/icon/MM%20%D0%93%D1%80%D0%B0%D0%B9%D0%BD%D0%B4%D1%85%D0%B0%D1%83%D1%81%20HD.png"   catchup="flussonic" catchup-days="3", MiniMax Грайндхаус HD
 #EXTGRP:Киноканалы
 http://live.biluspeh.com/8621/video.m3u8?token=8oj9xSWQPUsf6YxF
-#EXTINF:-1  tvg-id="MiniMax Криминал HD"  tvg-logo="https://icon.biluspeh.com/icon/MM%20%D0%9A%D1%80%D0%B8%D0%BC%D0%B8%D0%BD%D0%B0%D0%BB%20HD.png"   catchup="flussonic" catchup-days="3", MiniMax Криминал HD
-#EXTGRP:Киноканалы
-http://live.biluspeh.com/8624/video.m3u8?token=8oj9xSWQPUsf6YxF
 #EXTINF:-1  tvg-id="MiniMax Нуар HD"  tvg-logo="https://icon.biluspeh.com/icon/MM%20%D0%9D%D1%83%D0%B0%D1%80%20HD.png"   catchup="flussonic" catchup-days="3", MiniMax Нуар HD
 #EXTGRP:Киноканалы
 http://live.biluspeh.com/8733/video.m3u8?token=8oj9xSWQPUsf6YxF
@@ -692,21 +764,12 @@ http://live.biluspeh.com/8633/video.m3u8?token=8oj9xSWQPUsf6YxF
 #EXTINF:-1  tvg-id="MiniMax Стивен Кинг HD"  tvg-logo="https://icon.biluspeh.com/icon/MM%20%D0%A1%D1%82%D0%B8%D0%B2%D0%B5%D0%BD%20%D0%9A%D0%B8%D0%BD%D0%B3%20HD.png"   catchup="flussonic" catchup-days="3", MiniMax Стивен Кинг HD
 #EXTGRP:Киноканалы
 http://live.biluspeh.com/8629/video.m3u8?token=8oj9xSWQPUsf6YxF
-#EXTINF:-1  tvg-id="MiniMax UFO HD"  tvg-logo="https://icon.biluspeh.com/icon/MM%20UFO%20HD.png"   catchup="flussonic" catchup-days="1", MiniMax UFO HD
-#EXTGRP:Киноканалы
-http://live.biluspeh.com/8410/video.m3u8?token=8oj9xSWQPUsf6YxF
-#EXTINF:-1  tvg-id="MiniMax Роскино"  tvg-logo="https://icon.biluspeh.com/icon/MM%20%D0%A0%D0%BE%D1%81%D0%BA%D0%B8%D0%BD%D0%BE%20HD.png"   catchup="flussonic" catchup-days="1", MiniMax Роскино
-#EXTGRP:Киноканалы
-http://live.biluspeh.com/8709/video.m3u8?token=8oj9xSWQPUsf6YxF
 #EXTINF:-1  tvg-id="MiniMax Квартирник HD"  tvg-logo="https://icon.biluspeh.com/icon/MM%20%D0%9A%D0%B2%D0%B0%D1%80%D1%82%D0%B8%D1%80%D0%BD%D0%B8%D0%BA%20HD.png"   catchup="flussonic" catchup-days="3", MiniMax Квартирник HD
 #EXTGRP:Киноканалы
 http://live.biluspeh.com/8622/video.m3u8?token=8oj9xSWQPUsf6YxF
 #EXTINF:-1  tvg-id="MiniMax Крутые 90-е HD"  tvg-logo="https://icon.biluspeh.com/icon/MM%20%D0%9A%D1%80%D1%83%D1%82%D1%8B%D0%B5%2090-%D0%B5%20HD.png"   catchup="flussonic" catchup-days="1", MiniMax Крутые 90-е HD
 #EXTGRP:Киноканалы
 http://live.biluspeh.com/8547/video.m3u8?token=8oj9xSWQPUsf6YxF
-#EXTINF:-1  tvg-id="MiniMax OldSchool HD"  tvg-logo="https://icon.biluspeh.com/icon/MM%20OldSchool%20HD.png"   catchup="flussonic" catchup-days="3", MiniMax OldSchool HD
-#EXTGRP:Киноканалы
-http://live.biluspeh.com/8644/video.m3u8?token=8oj9xSWQPUsf6YxF
 #EXTINF:-1  tvg-id="MiniMax Celebrity HD"  tvg-logo="https://icon.biluspeh.com/icon/MM%20Celebrity%20HD.png"   catchup="flussonic" catchup-days="1", MiniMax Celebrity HD
 #EXTGRP:Киноканалы
 http://live.biluspeh.com/8991/video.m3u8?token=8oj9xSWQPUsf6YxF
@@ -716,21 +779,12 @@ http://live.biluspeh.com/8628/video.m3u8?token=8oj9xSWQPUsf6YxF
 #EXTINF:-1  tvg-id="MiniMax Ситком 2.0 HD"  tvg-logo="https://icon.biluspeh.com/icon/MM%20%D0%A1%D0%B8%D1%82%D0%BA%D0%BE%D0%BC%202.0%20HD.png"   catchup="flussonic" catchup-days="3", MiniMax Ситком 2.0 HD
 #EXTGRP:Киноканалы
 http://live.biluspeh.com/8623/video.m3u8?token=8oj9xSWQPUsf6YxF
-#EXTINF:-1  tvg-id="MiniMax Агата Кристи HD"  tvg-logo="https://icon.biluspeh.com/icon/MM%20%D0%90%D0%B3%D0%B0%D1%82%D0%B0%20%D0%9A%D1%80%D0%B8%D1%81%D1%82%D0%B8%20HD.png"   catchup="flussonic" catchup-days="3", MiniMax Агата Кристи HD
-#EXTGRP:Киноканалы
-http://live.biluspeh.com/8618/video.m3u8?token=8oj9xSWQPUsf6YxF
-#EXTINF:-1  tvg-id="MiniMax История HD"  tvg-logo="https://icon.biluspeh.com/icon/MM%20%D0%98%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%8F%20HD.png"   catchup="flussonic" catchup-days="1", MiniMax История HD
-#EXTGRP:Киноканалы
-http://live.biluspeh.com/8933/video.m3u8?token=8oj9xSWQPUsf6YxF
 #EXTINF:-1  tvg-id="MiniMax Полицейский с Рублёвки HD"  tvg-logo="https://icon.biluspeh.com/icon/MM%20%D0%9F%D0%BE%D0%BB%D0%B8%D1%86%D0%B5%D0%B9%D1%81%D0%BA%D0%B8%D0%B9%20%D1%81%20%D0%A0%D1%83%D0%B1%D0%BB%D1%91%D0%B2%D0%BA%D0%B8%20HD.png"   catchup="flussonic" catchup-days="3", MiniMax Полицейский с Рублёвки HD
 #EXTGRP:Киноканалы
 http://live.biluspeh.com/8626/video.m3u8?token=8oj9xSWQPUsf6YxF
 #EXTINF:-1  tvg-id="MiniMax Ужасы Classic HD"  tvg-logo="https://icon.biluspeh.com/icon/MM%20%D0%A3%D0%B6%D0%B0%D1%81%D1%8B%20Classic%20HD.png"   catchup="flussonic" catchup-days="3", MiniMax Ужасы Classic HD
 #EXTGRP:Киноканалы
 http://live.biluspeh.com/8630/video.m3u8?token=8oj9xSWQPUsf6YxF
-#EXTINF:-1  tvg-id="MiniMax Боевик Classic HD"  tvg-logo="https://icon.biluspeh.com/icon/MM%20%D0%91%D0%BE%D0%B5%D0%B2%D0%B8%D0%BA%20Classic%20HD.png"   catchup="flussonic" catchup-days="1", MiniMax Боевик Classic HD
-#EXTGRP:Киноканалы
-http://live.biluspeh.com/8411/video.m3u8?token=8oj9xSWQPUsf6YxF
 #EXTINF:-1  tvg-id="MiniMax USSR Драма HD"  tvg-logo="https://icon.biluspeh.com/icon/MM%20USSR%20%D0%94%D1%80%D0%B0%D0%BC%D0%B0%20HD.png"   catchup="flussonic" catchup-days="1", MiniMax USSR Драма HD
 #EXTGRP:Киноканалы
 http://live.biluspeh.com/8894/video.m3u8?token=8oj9xSWQPUsf6YxF
@@ -749,9 +803,6 @@ http://live.biluspeh.com/8642/video.m3u8?token=8oj9xSWQPUsf6YxF
 #EXTINF:-1  tvg-id="ТВОЁ ТВ HD"  tvg-logo="https://icon.biluspeh.com/icon/%D0%A2%D0%B2%D0%BE%D0%B5%20%D0%A2%D0%92%20HD.png" , ТВОЁ ТВ HD
 #EXTGRP:Киноканалы
 http://live.biluspeh.com/9236/video.m3u8?token=8oj9xSWQPUsf6YxF
-#EXTINF:-1  tvg-id="GoldLine Brief"  tvg-logo="https://icon.biluspeh.com/icon/GL_Brief.png"   catchup="flussonic" catchup-days="3", GoldLine Brief
-#EXTGRP:Киноканалы
-http://live.biluspeh.com/8568/video.m3u8?token=8oj9xSWQPUsf6YxF
 #EXTINF:-1  tvg-id="GoldLine Evidence"  tvg-logo="https://icon.biluspeh.com/icon/GL_Evidence.png"   catchup="flussonic" catchup-days="3", GoldLine Evidence
 #EXTGRP:Киноканалы
 http://live.biluspeh.com/8569/video.m3u8?token=8oj9xSWQPUsf6YxF
@@ -779,33 +830,18 @@ http://live.biluspeh.com/8886/video.m3u8?token=8oj9xSWQPUsf6YxF
 #EXTINF:-1  tvg-id="BCU Premiere HD"  tvg-logo="https://icon.biluspeh.com/icon/BCU%20Premiere%20HD.png"   catchup="flussonic" catchup-days="1", BCU Premiere HD
 #EXTGRP:Киноканалы
 http://live.biluspeh.com/8475/video.m3u8?token=8oj9xSWQPUsf6YxF
-#EXTINF:-1  tvg-id="BCU Premiere HDR"  tvg-logo="https://icon.biluspeh.com/icon/BCU%20Premiere%20HD.png"   catchup="flussonic" catchup-days="1", BCU Premiere HDR
-#EXTGRP:Киноканалы
-http://live.biluspeh.com/8883/video.m3u8?token=8oj9xSWQPUsf6YxF
 #EXTINF:-1  tvg-id="BCU Кинозал Premiere 1 HD"  tvg-logo="https://icon.biluspeh.com/icon/BCU%20%D0%9A%D0%B8%D0%BD%D0%BE%D0%B7%D0%B0%D0%BB%20Premiere%201%20HD.png"   catchup="flussonic" catchup-days="1", BCU Кинозал Premiere 1 HD
 #EXTGRP:Киноканалы
 http://live.biluspeh.com/8468/video.m3u8?token=8oj9xSWQPUsf6YxF
 #EXTINF:-1  tvg-id="BCU Кинозал Premiere 2 HD"  tvg-logo="https://icon.biluspeh.com/icon/BCU%20%D0%9A%D0%B8%D0%BD%D0%BE%D0%B7%D0%B0%D0%BB%20Premiere%203%20HD.png"   catchup="flussonic" catchup-days="1", BCU Кинозал Premiere 2 HD
 #EXTGRP:Киноканалы
 http://live.biluspeh.com/8473/video.m3u8?token=8oj9xSWQPUsf6YxF
-#EXTINF:-1  tvg-id="BCU Action HD"  tvg-logo="https://icon.biluspeh.com/icon/BCU%20Action%20HD.png"   catchup="flussonic" catchup-days="1", BCU Action HD
-#EXTGRP:Киноканалы
-http://live.biluspeh.com/8481/video.m3u8?token=8oj9xSWQPUsf6YxF
 #EXTINF:-1  tvg-id="BCU Marvel HD"  tvg-logo="https://icon.biluspeh.com/icon/BCU%20Marvel%20HD.png"   catchup="flussonic" catchup-days="1", BCU Marvel HD
 #EXTGRP:Киноканалы
 http://live.biluspeh.com/8476/video.m3u8?token=8oj9xSWQPUsf6YxF
-#EXTINF:-1  tvg-id="BCU Marvel HDR"  tvg-logo="https://icon.biluspeh.com/icon/BCU%20Marvel%20HD.png"   catchup="flussonic" catchup-days="1", BCU Marvel HDR
-#EXTGRP:Киноканалы
-http://live.biluspeh.com/8882/video.m3u8?token=8oj9xSWQPUsf6YxF
-#EXTINF:-1  tvg-id="BCU Comedy HD"  tvg-logo="https://icon.biluspeh.com/icon/BCU%20Comedy%20HD.png"   catchup="flussonic" catchup-days="1", BCU Comedy HD
-#EXTGRP:Киноканалы
-http://live.biluspeh.com/8477/video.m3u8?token=8oj9xSWQPUsf6YxF
 #EXTINF:-1  tvg-id="BCU Fantastic HD"  tvg-logo="https://icon.biluspeh.com/icon/BCU%20Fantastic%20HD.png"   catchup="flussonic" catchup-days="1", BCU Fantastic HD
 #EXTGRP:Киноканалы
 http://live.biluspeh.com/8478/video.m3u8?token=8oj9xSWQPUsf6YxF
-#EXTINF:-1  tvg-id="BCU Fantastic HDR"  tvg-logo="https://icon.biluspeh.com/icon/BCU%20Fantastic%20HD.png"   catchup="flussonic" catchup-days="1", BCU Fantastic HDR
-#EXTGRP:Киноканалы
-http://live.biluspeh.com/8879/video.m3u8?token=8oj9xSWQPUsf6YxF
 #EXTINF:-1  tvg-id="BCU FilMystic HD"  tvg-logo="https://icon.biluspeh.com/icon/BCU%20FilMystic%20HD.png"   catchup="flussonic" catchup-days="1", BCU FilMystic HD
 #EXTGRP:Киноканалы
 http://live.biluspeh.com/8479/video.m3u8?token=8oj9xSWQPUsf6YxF
@@ -815,36 +851,9 @@ http://live.biluspeh.com/8880/video.m3u8?token=8oj9xSWQPUsf6YxF
 #EXTINF:-1  tvg-id="BCU Cosmo HD"  tvg-logo="https://icon.biluspeh.com/icon/BCU%20Cosmo%20HD.png"   catchup="flussonic" catchup-days="1", BCU Cosmo HD
 #EXTGRP:Киноканалы
 http://live.biluspeh.com/8480/video.m3u8?token=8oj9xSWQPUsf6YxF
-#EXTINF:-1  tvg-id="BCU Cinema+ HD"  tvg-logo="https://icon.biluspeh.com/icon/BCU%20Cinema+%20HD.png"   catchup="flussonic" catchup-days="1", BCU Cinema+ HD
-#EXTGRP:Киноканалы
-http://live.biluspeh.com/8892/video.m3u8?token=8oj9xSWQPUsf6YxF
-#EXTINF:-1  tvg-id="BCU Cinema HD"  tvg-logo="https://icon.biluspeh.com/icon/BCU%20Cinema%20HD.png"   catchup="flussonic" catchup-days="1", BCU Cinema HD
-#EXTGRP:Киноканалы
-http://live.biluspeh.com/8891/video.m3u8?token=8oj9xSWQPUsf6YxF
-#EXTINF:-1  tvg-id="BCU Kinorating HD"  tvg-logo="https://icon.biluspeh.com/icon/BCU%20Kinorating%20HD.png"   catchup="flussonic" catchup-days="1", BCU Kinorating HD
-#EXTGRP:Киноканалы
-http://live.biluspeh.com/8455/video.m3u8?token=8oj9xSWQPUsf6YxF
-#EXTINF:-1  tvg-id="BCU Catastrophe HD"  tvg-logo="https://icon.biluspeh.com/icon/BCU%20Catastrophe%20HD.png"   catchup="flussonic" catchup-days="1", BCU Catastrophe HD
-#EXTGRP:Киноканалы
-http://live.biluspeh.com/8877/video.m3u8?token=8oj9xSWQPUsf6YxF
-#EXTINF:-1  tvg-id="BCU History HD"  tvg-logo="https://icon.biluspeh.com/icon/BCU%20History%20HD.png"   catchup="flussonic" catchup-days="1", BCU History HD
-#EXTGRP:Киноканалы
-http://live.biluspeh.com/8881/video.m3u8?token=8oj9xSWQPUsf6YxF
 #EXTINF:-1  tvg-id="BCU Romantic HD"  tvg-logo="https://icon.biluspeh.com/icon/BCU%20Romantic%20HD.png"   catchup="flussonic" catchup-days="1", BCU Romantic HD
 #EXTGRP:Киноканалы
 http://live.biluspeh.com/8884/video.m3u8?token=8oj9xSWQPUsf6YxF
-#EXTINF:-1  tvg-id="BCU Criminal HD"  tvg-logo="https://icon.biluspeh.com/icon/BCU%20Criminal%20HD.png"   catchup="flussonic" catchup-days="1", BCU Criminal HD
-#EXTGRP:Киноканалы
-http://live.biluspeh.com/8890/video.m3u8?token=8oj9xSWQPUsf6YxF
-#EXTINF:-1  tvg-id="BCU Stars HD"  tvg-logo="https://icon.biluspeh.com/icon/BCU%20Stars%20HD.png"   catchup="flussonic" catchup-days="1", BCU Stars HD
-#EXTGRP:Киноканалы
-http://live.biluspeh.com/8885/video.m3u8?token=8oj9xSWQPUsf6YxF
-#EXTINF:-1  tvg-id="BCU TruMotion HD"  tvg-logo="https://icon.biluspeh.com/icon/BCU%20TruMotion%20HD.png"   catchup="flussonic" catchup-days="1", BCU TruMotion HD
-#EXTGRP:Киноканалы
-http://live.biluspeh.com/8977/video.m3u8?token=8oj9xSWQPUsf6YxF
-#EXTINF:-1  tvg-id="BCU Survival HD"  tvg-logo="https://icon.biluspeh.com/icon/BCU%20Survival%20HD.png"   catchup="flussonic" catchup-days="1", BCU Survival HD
-#EXTGRP:Киноканалы
-http://live.biluspeh.com/8912/video.m3u8?token=8oj9xSWQPUsf6YxF
 #EXTINF:-1  tvg-id="BCU Russian HD"  tvg-logo="https://icon.biluspeh.com/icon/BCU%20Russian%20HD.png"   catchup="flussonic" catchup-days="1", BCU Russian HD
 #EXTGRP:Киноканалы
 http://live.biluspeh.com/8457/video.m3u8?token=8oj9xSWQPUsf6YxF
@@ -854,9 +863,6 @@ http://live.biluspeh.com/8980/video.m3u8?token=8oj9xSWQPUsf6YxF
 #EXTINF:-1  tvg-id="BOX Hybrid HD"  tvg-logo="https://icon.biluspeh.com/icon/BOX%20Hybrid%20HD.png"   catchup="flussonic" catchup-days="1", BOX Hybrid HD
 #EXTGRP:Киноканалы
 http://live.biluspeh.com/8983/video.m3u8?token=8oj9xSWQPUsf6YxF
-#EXTINF:-1  tvg-id="BOX Gangster HD"  tvg-logo="https://icon.biluspeh.com/icon/BOX%20Gangster%20HD.png"   catchup="flussonic" catchup-days="1", BOX Gangster HD
-#EXTGRP:Киноканалы
-http://live.biluspeh.com/8985/video.m3u8?token=8oj9xSWQPUsf6YxF
 #EXTINF:-1  tvg-id="BOX Spy HD"  tvg-logo="https://icon.biluspeh.com/icon/BOX%20Spy%20HD.png"   catchup="flussonic" catchup-days="1", BOX Spy HD
 #EXTGRP:Киноканалы
 http://live.biluspeh.com/8354/video.m3u8?token=8oj9xSWQPUsf6YxF
@@ -878,18 +884,12 @@ http://live.biluspeh.com/8430/video.m3u8?token=8oj9xSWQPUsf6YxF
 #EXTINF:-1  tvg-id="BOX Mayday HD"  tvg-logo="https://icon.biluspeh.com/icon/BOX%20Mayday%20HD.png"   catchup="flussonic" catchup-days="1", BOX Mayday HD
 #EXTGRP:Киноканалы
 http://live.biluspeh.com/8434/video.m3u8?token=8oj9xSWQPUsf6YxF
-#EXTINF:-1  tvg-id="BOX Western HD"  tvg-logo="https://icon.biluspeh.com/icon/BOX%20Western%20HD.png"   catchup="flussonic" catchup-days="1", BOX Western HD
-#EXTGRP:Киноканалы
-http://live.biluspeh.com/8417/video.m3u8?token=8oj9xSWQPUsf6YxF
 #EXTINF:-1  tvg-id="Kernel TV Герой HD"  tvg-logo="https://icon.biluspeh.com/icon/kernel_geroy.png"   catchup="flussonic" catchup-days="3", Kernel TV Герой HD
 #EXTGRP:Киноканалы
 http://live.biluspeh.com/9055/video.m3u8?token=8oj9xSWQPUsf6YxF
 #EXTINF:-1  tvg-id="Kernel TV Доктор HD"  tvg-logo="https://icon.biluspeh.com/icon/kernel_doctor.png"   catchup="flussonic" catchup-days="3", Kernel TV Доктор HD
 #EXTGRP:Киноканалы
 http://live.biluspeh.com/9058/video.m3u8?token=8oj9xSWQPUsf6YxF
-#EXTINF:-1  tvg-id="Kernel TV Космос HD"  tvg-logo="https://icon.biluspeh.com/icon/kernel_kosmoc.png"   catchup="flussonic" catchup-days="3", Kernel TV Космос HD
-#EXTGRP:Киноканалы
-http://live.biluspeh.com/9064/video.m3u8?token=8oj9xSWQPUsf6YxF
 #EXTINF:-1  tvg-id="BCU Кинозал Premiere 3 HD"  tvg-logo="https://icon.biluspeh.com/icon/BCU%20Premiere%20HD.png"   catchup="flussonic" catchup-days="1", BCU Кинозал Premiere 3 HD
 #EXTGRP:Киноканалы
 http://live.biluspeh.com/8474/video.m3u8?token=8oj9xSWQPUsf6YxF
